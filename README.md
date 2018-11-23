@@ -1,6 +1,6 @@
-# Oranganisation
+# Organisation
 
-This repository is used to oranise every thing for the oemof community. 
+This repository is used to organise everything for the oemof community. 
 
 - Webconference dates
 - Real life meetings
