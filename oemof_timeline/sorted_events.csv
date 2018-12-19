@@ -1,0 +1,20 @@
+date,description,level
+2014-12-03,Founding meeting,-1
+2014-12-18,Initial commit,2
+2015-06-01,2nd dev meeting Berlin,-2
+2015-10-03,feedinlib first version v0.0.6,1.5
+2015-11-23,3rd dev meeting Flensburg,-1
+2015-11-25,oemof v0.0.1,1
+2016-04-06,solph refactoring meeting Flensburg,-2
+2016-05-09,4th dev meeting Flensburg,-1
+2016-08-29,windpowerlib v0.0.1,2
+2016-10-04,demandlib 0.1,1.5
+2016-11-01,oemof v0.1.0,1
+2016-12-06,5th dev meeting Berlin,-1
+2017-05-09,1st user meeting Berlin,-2
+2017-12-04,6th dev meeting Flensburg,-1
+2017-12-11,Initial commit for TESPy,2
+2018-01-12,oemof v0.2.0,1.5
+2018-03-09,TESPy v0.0.1,1
+2018-05-07,7th dev/ 2nd user meeting Magdeburg,-2
+2018-11-05,8th dev meeting Flensburg,-1
