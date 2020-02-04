@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="293.57541"
-   height="274.60098"
+   width="300"
+   height="285"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="logo_oemof_vec_inkscape_small.svg.2020_02_01_22_30_31.2.svg"
+   sodipodi:docname="logo_oemof_small.svg"
    inkscape:export-filename="/home/leppi/Dokumente/ZNES/Oemof/oemof_logo/done/logo_oemof_vec_inkscape_small_300DPI.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -292,16 +292,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="-788.44606"
-     inkscape:cy="279.20432"
+     inkscape:zoom="1.7792969"
+     inkscape:cx="157.16558"
+     inkscape:cy="101.30374"
      inkscape:document-units="px"
      inkscape:current-layer="g3465-3-7"
      showgrid="true"
-     inkscape:window-width="1863"
-     inkscape:window-height="1025"
-     inkscape:window-x="57"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -315,22 +315,22 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-object-midpoints="true"
-     fit-margin-top="5"
-     fit-margin-left="5"
-     fit-margin-right="5"
-     fit-margin-bottom="5">
+     fit-margin-top="10"
+     fit-margin-left="8"
+     fit-margin-right="8"
+     fit-margin-bottom="10">
     <inkscape:grid
        type="xygrid"
        id="grid1000"
-       originx="-418.21227"
-       originy="127.71154" />
+       originx="0"
+       originy="0" />
     <sodipodi:guide
-       position="146.78773,42.71154"
+       position="149.78773,47.71153"
        orientation="1,0"
        id="guide1113"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="141.78773,127.71154"
+       position="144.78773,132.71153"
        orientation="0,1"
        id="guide1115"
        inkscape:locked="false" />
@@ -351,7 +351,7 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-418.21227,-905.47277)"
+     transform="translate(-415.21227,-900.07375)"
      style="display:inline">
     <g
        transform="matrix(0.91666939,0.00891669,-0.008729,0.91623053,14.672869,82.666835)"
@@ -363,8 +363,8 @@
        transform="matrix(1.14,0,0,1.14,-68.513462,-174.87898)">
       <circle
          r="51.808628"
-         cy="-1169.2493"
-         cx="317.15125"
+         cy="-1169.375"
+         cx="317.01395"
          style="display:inline;opacity:1;vector-effect:none;fill:#1f567d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33499634;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3981-2-1-6-7-5-0-4-4-8-3"
          transform="rotate(137.52083)" />
@@ -374,12 +374,12 @@
          transform="rotate(90.00083)"
          sodipodi:type="arc"
          sodipodi:cx="1076.4397"
-         sodipodi:cy="-555.72913"
+         sodipodi:cy="-555.91534"
          sodipodi:rx="100.26201"
          sodipodi:ry="100.26201"
          sodipodi:start="0.52359878"
          sodipodi:end="5.7595865"
-         d="m 1163.2691,-505.59812 a 100.26201,100.26201 0 0 1 -112.7791,46.71466 100.26201,100.26201 0 0 1 -74.31231,-96.84566 100.26201,100.26201 0 0 1 74.31231,-96.84567 100.26201,100.26201 0 0 1 112.7791,46.71466"
+         d="m 1163.2691,-505.78434 a 100.26201,100.26201 0 0 1 -112.7791,46.71466 100.26201,100.26201 0 0 1 -74.31231,-96.84566 100.26201,100.26201 0 0 1 74.31231,-96.84567 100.26201,100.26201 0 0 1 112.7791,46.71466"
          sodipodi:open="true" />
     </g>
   </g>
