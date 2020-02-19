@@ -7,6 +7,8 @@ import matplotlib.dates as mdates
 from datetime import datetime
 import textwrap
 
+pd.plotting.register_matplotlib_converters()
+
 events = pd.read_csv('sorted_releases.csv')
 events['date'] = pd.to_datetime(events['date'], format='%Y-%m-%d')
 events = events.sort_values(by='date')
