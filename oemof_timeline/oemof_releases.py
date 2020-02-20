@@ -9,7 +9,7 @@ import textwrap
 
 pd.plotting.register_matplotlib_converters()
 
-events = pd.read_csv('sorted_events.csv')
+events = pd.read_csv('sorted_releases.csv')
 events['date'] = pd.to_datetime(events['date'], format='%Y-%m-%d')
 events = events.sort_values(by='date')
 names = events['description']
@@ -56,7 +56,7 @@ plt.tight_layout()
 plt.setp((ax.get_yticklabels() + ax.get_yticklines() +
           list(ax.spines.values())), visible=False)
 
-plt.savefig('oemof_timeline.pdf')
+plt.savefig('oemof_releases.pdf')
 plt.show()
 
 
