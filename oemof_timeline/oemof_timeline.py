@@ -23,7 +23,7 @@ names = events['description']
 dates = events['date']
 levels = events['level']
 
-fig, ax = plt.subplots(figsize=(12, 6))
+fig, ax = plt.subplots(figsize=(13, 6))
 
 # Create the base line
 start = min(dates)
