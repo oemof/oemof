@@ -2,6 +2,8 @@
 Installation
 ============
 
-At the command line::
+To install the `oemof.solph` package (previously just `oemof`), please use
 
-    pip install oemof
+::
+
+    pip install https://github.com/oemof/oemof-solph/archive/master.zip"

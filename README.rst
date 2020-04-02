@@ -61,14 +61,14 @@ Overview
 
 Open Energy Modelling Framework - Python toolbox for energy system modelling and optimisation.
 
-The omeof project aims to be a loose organisational frame for tools in the wide field of (energy) system modelling. 
+The omeof project aims to be a loose organisational frame for tools in the wide field of (energy) system modelling.
 Every project is managed by their own developer team but we share some developer and design rules to make it easier to understand each others tools.
 
 All projects are in different states and some even may not have a stable release but all projects are open to join.
 We do not belong to a specific institution and everybody is free to join the developer teams and will have the same rights.
 There is no higher decission level.
 
-This repository is also used to organise everything for the oemof community. 
+This repository is also used to organise everything for the oemof community.
 
 - Webconference dates
 - Real life meetings
@@ -79,13 +79,17 @@ Projects with stable releases
 =============================
 
 * `oemof-solph <https://github.com/oemof/oemof-solph>`_
+   A model generator for energy system modelling and optimisation (LP/MILP).
 * `TESPy <https://github.com/oemof/tespy>`_
+   Thermal Engineering Systems in Python (TESPy). This package provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps.
 
 
 Projects in an early state
 ==========================
 
-* ...
+* `DHNx <https://github.com/oemof/dhnx>`_
+   District heating system optimisation and simulation models
+
 
 
 All project libraries are free software licenced under the MIT license.
@@ -95,13 +99,11 @@ All project libraries are free software licenced under the MIT license.
 Installation
 ============
 
+To install the `oemof.solph` package (previously just `oemof`), please use
+
 ::
 
-    pip install oemof
-
-You can also install the in-development version with::
-
-    pip install https://github.com/oemof/oemof/archive/master.zip
+    pip install https://github.com/oemof/oemof-solph/archive/master.zip"
 
 
 Documentation
