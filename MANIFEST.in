@@ -13,6 +13,10 @@ include CHANGELOG.rst
 include CONTRIBUTING.rst
 include LICENSE
 include README.rst
+recursive-include logo *.md
+recursive-include logo *.svg
+recursive-include oemof_timeline *.csv
+recursive-include oemof_timeline *.py
 
 include tox.ini .travis.yml .appveyor.yml .readthedocs.yml
 
