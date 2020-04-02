@@ -23,7 +23,7 @@ Overview
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/oemof/oemof
 
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/oemof/oemof?branch=master&svg=true
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/0ri9bxniy0irw4j0/branch/master?svg=true
     :alt: AppVeyor Build Status
     :target: https://ci.appveyor.com/project/oemof-developer/oemof
 
