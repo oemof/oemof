@@ -75,13 +75,40 @@ This repository is also used to organise everything for the oemof community.
 - Website and Mailinglist
 - General communication
 
+
+**Content**
+
+.. contents::
+    :depth: 3
+    :local:
+    :backlinks: top
+
 Projects with stable releases
 =============================
 
 * `oemof-solph <https://github.com/oemof/oemof-solph>`_
    A model generator for energy system modelling and optimisation (LP/MILP).
+
+* `oemof-thermal <https://github.com/oemof/oemof-thermal>`_
+   Coming soon...
+
+* `cydets <https://github.com/oemof/cydets>`_
+   Cycle Detection in Time Series (CyDeTS). An algorithm to detect cycles in times series along with their respective depth-of-cycle (DoC) and duration.
+
+* `demandlib <https://github.com/oemof/demandlib>`_
+   The `demandlib <https://github.com/oemof/demandlib>`_ library can be used to create load profiles for elctricity and heat knowing the annual demand. See the `documentation of the demandlib <http://demandlib.readthedocs.io/en/latest/>`_ for examples and a full description of the library.
+
+* `feedinlib <https://github.com/oemof/feedinlib>`_
+   The `feedinlib <https://github.com/oemof/feedinlib>`_ library serves as an interface between Open Data weather data and libraries to calculate feedin timeseries for fluctuating renewable energy sources.
+
 * `TESPy <https://github.com/oemof/tespy>`_
    Thermal Engineering Systems in Python (TESPy). This package provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps.
+
+* `windpowerlib <https://github.com/wind-python/windpowerlib>`_
+   The windpowerlib is a library that provides a set of functions and classes
+   to calculate the power output of wind turbines. It was originally part of
+   the feedinlib (windpower and photovoltaic) but was taken out to build up
+   a community concentrating on wind power models.
 
 
 Projects in an early state
