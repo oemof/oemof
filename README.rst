@@ -25,11 +25,11 @@ Overview
 
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/oemof/oemof?branch=master&svg=true
     :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/oemof/oemof
+    :target: https://ci.appveyor.com/project/oemof-developer/oemof
 
 .. |requires| image:: https://requires.io/github/oemof/oemof/requirements.svg?branch=master
     :alt: Requirements Status
-    :target: https://requires.io/github/oemof/oemof/requirements/?branch=master
+    :target: uvchikuvchik
 
 .. |codecov| image:: https://codecov.io/gh/oemof/oemof/branch/master/graphs/badge.svg?branch=master
     :alt: Coverage Status
