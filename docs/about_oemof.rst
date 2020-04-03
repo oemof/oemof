@@ -25,8 +25,6 @@ Generally, applications can be developed highly individually by the use of one o
 The following image illustrates the typical application building process.
 
 .. 	image:: _files/framework_concept.svg
-   :height: 475px
-   :width: 1052 px
    :scale: 30 %
    :alt: The idea of Open Energy System Modelling Framework (oemof)
    :align: center
