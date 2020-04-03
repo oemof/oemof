@@ -10,6 +10,7 @@ Contents
    installation
    usage
    reference/index
+   developing_oemof
    contributing
    authors
    changelog
