@@ -57,4 +57,12 @@ See `documentation of the feedinlib <https://feedinlib.readthedocs.io/en/stable/
 `tespy <https://github.com/oemof/tespy>`_
 =========================================
 
-Coming soon...
+Thermal Engineering Systems in Python
+(`TESPy <https://github.com/oemof/cydets>`_) allows you to calculate
+stationary operation in order to design the process of thermal energy systems.
+From that point it is possible to simulate the offdesign behavior of your
+plant using underlying characteristics for each of the plants components.
+The package inlcudes basic components, such as turbines, pumps, compressors,
+heat exchangers, pipes, mixers and splitters as well as some advanced
+components (e. g. including combustion, derivatives of heat exchangers, drum).
+
