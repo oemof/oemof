@@ -88,27 +88,47 @@ Projects with stable releases
 
 * `oemof-solph <https://github.com/oemof/oemof-solph>`_
    A model generator for energy system modelling and optimisation (LP/MILP).
+   
+   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.596235.svg
+      :target: https://doi.org/10.5281/zenodo.596235
 
 * `oemof-thermal <https://github.com/oemof/oemof-thermal>`_
-   Coming soon...
+
+   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3606384.svg
+      :target: https://doi.org/10.5281/zenodo.3606384
 
 * `cydets <https://github.com/oemof/cydets>`_
    Cycle Detection in Time Series (CyDeTS). An algorithm to detect cycles in times series along with their respective depth-of-cycle (DoC) and duration.
+   
+   .. image:: https://zenodo.org/badge/176734401.svg
+      :target: https://zenodo.org/badge/latestdoi/176734401
 
 * `demandlib <https://github.com/oemof/demandlib>`_
    The `demandlib <https://github.com/oemof/demandlib>`_ library can be used to create load profiles for elctricity and heat knowing the annual demand. See the `documentation of the demandlib <http://demandlib.readthedocs.io/en/latest/>`_ for examples and a full description of the library.
+   
+   .. image:: https://zenodo.org/badge/55755176.svg
+      :target: https://zenodo.org/badge/latestdoi/55755176
 
 * `feedinlib <https://github.com/oemof/feedinlib>`_
    The `feedinlib <https://github.com/oemof/feedinlib>`_ library serves as an interface between Open Data weather data and libraries to calculate feedin timeseries for fluctuating renewable energy sources.
+   
+   .. image:: https://zenodo.org/badge/22206383.svg
+      :target: https://zenodo.org/badge/latestdoi/22206383
 
 * `TESPy <https://github.com/oemof/tespy>`_
    Thermal Engineering Systems in Python (TESPy). This package provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps.
+   
+   .. image:: https://zenodo.org/badge/113834202.svg
+      :target: https://zenodo.org/badge/latestdoi/113834202
 
 * `windpowerlib <https://github.com/wind-python/windpowerlib>`_
    The windpowerlib is a library that provides a set of functions and classes
    to calculate the power output of wind turbines. It was originally part of
    the feedinlib (windpower and photovoltaic) but was taken out to build up
    a community concentrating on wind power models.
+   
+   .. image:: https://zenodo.org/badge/66651306.svg
+      :target: https://zenodo.org/badge/latestdoi/66651306
 
 
 Projects in an early state
