@@ -126,7 +126,7 @@ Projects with stable releases
    the feedinlib (windpower and photovoltaic) but was taken out to build up
    a community concentrating on wind power models.
    
-   .. image:: https://zenodo.org/badge/10.5281/zenodo.824267.svg
+   .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.824267.svg
       :target: https://doi.org/10.5281/zenodo.824267
 
 
