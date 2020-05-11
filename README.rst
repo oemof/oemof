@@ -76,7 +76,7 @@ This repository is also used to organise everything for the oemof community.
 - General communication
 
 
-**Content**
+**Overview**
 
 .. contents::
     :depth: 3
