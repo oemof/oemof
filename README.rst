@@ -1,7 +1,6 @@
-=======================================
-Open Energy Modelling Framework (oemof)
-=======================================
-
+=================================================
+Overview: Open Energy Modelling Framework (oemof)
+=================================================
 .. start-badges
 
 .. list-table::
