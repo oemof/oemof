@@ -61,7 +61,7 @@ Overview
 
 Open Energy Modelling Framework - Python toolbox for energy system modelling and optimisation.
 
-The omeof project aims to be a loose organisational frame for tools in the wide field of (energy) system modelling.
+The oemof project aims to be a loose organisational frame for tools in the wide field of (energy) system modelling.
 Every project is managed by their own developer team but we share some developer and design rules to make it easier to understand each others tools.
 
 All projects are in different states and some even may not have a stable release but all projects are open to join.
