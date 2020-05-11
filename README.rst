@@ -1,6 +1,6 @@
-========
-Overview
-========
+=======================================
+Open Energy Modelling Framework (oemof)
+=======================================
 
 .. start-badges
 
@@ -59,7 +59,7 @@ Overview
 
 .. end-badges
 
-Open Energy Modelling Framework - Python toolbox for energy system modelling and optimisation.
+The Open Energy Modelling Framework (oemof) is a Python toolbox for energy system modelling and optimisation.
 
 The oemof project aims to be a loose organisational frame for tools in the wide field of (energy) system modelling.
 Every project is managed by their own developer team but we share some developer and design rules to make it easier to understand each others tools.
