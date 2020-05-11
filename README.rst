@@ -67,7 +67,8 @@ All projects are in different stages of implementation, some even may not have a
 We do not belong to a specific institution and everybody is free to join the developer teams and will have the same rights.
 There is no higher decision level.
 
-This repository is also used to organise everything for the oemof community.
+
+`This repository <https://github.com/oemof/oemof>`_ is also used to organise everything for the oemof community.
 
 - Webconference dates
 - Real life meetings
