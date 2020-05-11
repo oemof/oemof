@@ -75,6 +75,7 @@ This repository is also used to organise everything for the oemof community.
 - Website and Mailinglist
 - General communication
 
+You can find recent topics of discussion in the `issues <https://github.com/oemof/oemof/issues>`_.
 
 **Overview**
 
