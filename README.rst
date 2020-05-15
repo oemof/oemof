@@ -1,7 +1,6 @@
-========
-Overview
-========
-
+=================================================
+Overview: Open Energy Modelling Framework (oemof)
+=================================================
 .. start-badges
 
 .. list-table::
@@ -59,24 +58,26 @@ Overview
 
 .. end-badges
 
-Open Energy Modelling Framework - Python toolbox for energy system modelling and optimisation.
+The Open Energy Modelling Framework (oemof) is a Python toolbox for energy system modelling and optimisation.
 
-The omeof project aims to be a loose organisational frame for tools in the wide field of (energy) system modelling.
-Every project is managed by their own developer team but we share some developer and design rules to make it easier to understand each others tools.
+The oemof project aims to be a loose organisational frame for tools in the wide field of (energy) system modelling.
+Every project is managed by their own developer team but we share some developer and design rules to make it easier to understand each other's tools. All project libraries are free software licenced under the MIT license.
 
-All projects are in different states and some even may not have a stable release but all projects are open to join.
+All projects are in different stages of implementation, some even may not have a stable release, but all projects are open to be joined by interested people.
 We do not belong to a specific institution and everybody is free to join the developer teams and will have the same rights.
-There is no higher decission level.
+There is no higher decision level.
 
-This repository is also used to organise everything for the oemof community.
+
+`This repository <https://github.com/oemof/oemof>`_ is also used to organise everything for the oemof community.
 
 - Webconference dates
 - Real life meetings
 - Website and Mailinglist
 - General communication
 
+You can find recent topics of discussion in the `issues <https://github.com/oemof/oemof/issues>`_.
 
-**Content**
+**Overview**
 
 .. contents::
     :depth: 3
@@ -135,11 +136,6 @@ Projects in an early state
 
 * `DHNx <https://github.com/oemof/dhnx>`_
    District heating system optimisation and simulation models
-
-
-
-All project libraries are free software licenced under the MIT license.
-
 
 
 Installation
