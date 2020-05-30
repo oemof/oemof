@@ -1,4 +1,4 @@
-#Satzung
+# Satzung
 
 
 ## Name, Sitz, Geschäftsjahr
