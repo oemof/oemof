@@ -96,7 +96,8 @@ Projects with stable releases
 =============================
 
 * `oemof-solph <https://github.com/oemof/oemof-solph>`_
-   A model generator for energy system modelling and optimisation (LP/MILP).
+   A model generator for energy system modelling and optimisation (LP/MILP) -
+   (formerly know as `oemof`).
 
    .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.596235.svg
       :target: https://doi.org/10.5281/zenodo.596235
