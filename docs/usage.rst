@@ -26,7 +26,7 @@ The formulation of the energy system is based on the oemof-network library but c
 `oemof-thermal <https://github.com/oemof/oemof-thermal>`_
 =========================================================
 
-Coming soon...
+`oemof.thermal <https://github.com/oemof/oemof-thermal>`_ is an oemof library with a focus on thermal energy technologies (heating/cooling). In its original intention it is an extension to the components of the optimization framework oemof.solph. However, some of its functions may be useful for their own.
 
 
 `cydets <https://github.com/oemof/cydets>`_
