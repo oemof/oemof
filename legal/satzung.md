@@ -32,9 +32,9 @@
     1. die Mitgliederversammlung und
     2. der Vorstand.
 2. Der Vorstand besteht drei Mitgliedern,
-    1. dem Sprecher,
-    2. dem Schriftführer und
-    3. dem Schatzmeister.
+    1. der Sprecher*in,
+    2. der Schriftführer*in und
+    3. der Kassenwärt*in.
 4. Der Vorstand vertritt den Verein gerichtlich und außergerichtlich im Sinne des § 26 BGB,
     wobei jedes Vorstandsmitglied für sich zur Vertetung des Vereins berechtigt ist.
 3. Der Vorstand gibt sich eine Geschäftsordnung, die von der Mitgliederversammlung bestätigt werden muss.
@@ -74,7 +74,7 @@
     Ihrer Beschlussfassung unterliegen alle in dieser Satzung oder per Gesetz vorgesehenen Gegenstände,
     insbesondere
     1. Wahl des Vorstandes,
-    2. Wahl der Finanzprüfer,
+    2. Wahl der Finanzprüfer*innen,
     3. Beschlussfassung über den Jahresbericht des Vorstandes,
     4. Entlastung des Vorstandes,
     6. Verabschiedung der Beitragsordnung,
@@ -104,7 +104,7 @@
 
 ## Finanzprüfung
 
-1. Zwei Finanzprüfer sind von der Mitgliederversammlung für jeweils ein Jahr zu wählen.
+1. Zwei Finanzprüfer*innen sind von der Mitgliederversammlung für jeweils ein Jahr zu wählen.
     Diese haben die Aufgabe, das jeweils zurückliegende Geschäftsjahr des Vereins buchhalterisch zu prüfen.
 2. Den Finanzprüfern sind zur Prüfung sämtliche Unterlagen des Vereins, Rechnungen, Bankauszüge und dergelichen zur Verfügung zu stellen.
 3. Finanzprüfer müssen voll geschäftsfähige Mitglieder des Vereins sein.
