@@ -35,9 +35,9 @@
     1. der Sprecher*in,
     2. der Schriftführer*in und
     3. der Kassenwärt*in.
-4. Der Vorstand vertritt den Verein gerichtlich und außergerichtlich im Sinne des § 26 BGB,
+3. Der Vorstand vertritt den Verein gerichtlich und außergerichtlich im Sinne des § 26 BGB,
     wobei jedes Vorstandsmitglied für sich zur Vertetung des Vereins berechtigt ist.
-3. Der Vorstand gibt sich eine Geschäftsordnung, die von der Mitgliederversammlung bestätigt werden muss.
+4. Der Vorstand gibt sich eine Geschäftsordnung, die von der Mitgliederversammlung bestätigt werden muss.
 
 
 ## Treffen und Kommunikation
@@ -52,12 +52,12 @@
 
 1. Mitglied des Vereins kann jede volljährige natürliche Person werden.
 2. Die Beitrittserklärung erfolgt gegenüber dem Vorstand.
-2. Über Aufnahme entscheidet der Vorstand. Die Aufnahme erfolgt nach freiem Ermessen.
+3. Über Aufnahme entscheidet der Vorstand. Die Aufnahme erfolgt nach freiem Ermessen.
     Bei Ablehnung ist er nicht verpflichtet, dem Antragsteller die Gründe hierfür mitzuteilen.
-3. Die Mitgliedschaft endet Austritt aus dem Verein, durch Tod, Ausschluss, Streichung von der Mitgliederliste.
-4. Ein Mitglied kann durch Beschluss des Vorstandes von der Mitgliederliste gestrichen werden, wenn es trotz schriftlicher Mahnung mit der Bezahlung von Mitgliedsbeiträgen oder von Umlagen im Rückstand ist.
+4. Die Mitgliedschaft endet Austritt aus dem Verein, durch Tod, Ausschluss, Streichung von der Mitgliederliste.
+5. Ein Mitglied kann durch Beschluss des Vorstandes von der Mitgliederliste gestrichen werden, wenn es trotz schriftlicher Mahnung mit der Bezahlung von Mitgliedsbeiträgen oder von Umlagen im Rückstand ist.
     Diese Streichung befreit das Mitglied nicht von der Begleichung rückständiger Beiträge und Umlagen.
-5. Ein Mitglied kann ausgeschlossen werden, wenn es schuldhaft in grober Weise die Interessen des Vereins verletzt. Der Ausschluss erfolgt durch Beschluss [des Vorstandes / der Mitgliederversammlung]: Vor der Beschlussfassung muss dem Mitglied Gelegenheit zur mündlichen oder schriftlichen Stellungnahme gegeben werden. Der Beschluss ist schriftlich zu begründen und dem Mitglied mitzuteilen. Hiergegen kann innerhalb eines Monats nach Zugang des Beschlusses beim Vorstand Widerspruch eingelegt werden. Über diesen Widerspruch entscheidet die nächste Mitgliederversammlung endgültig.
+6. Ein Mitglied kann ausgeschlossen werden, wenn es schuldhaft in grober Weise die Interessen des Vereins verletzt. Der Ausschluss erfolgt durch Beschluss [des Vorstandes / der Mitgliederversammlung]: Vor der Beschlussfassung muss dem Mitglied Gelegenheit zur mündlichen oder schriftlichen Stellungnahme gegeben werden. Der Beschluss ist schriftlich zu begründen und dem Mitglied mitzuteilen. Hiergegen kann innerhalb eines Monats nach Zugang des Beschlusses beim Vorstand Widerspruch eingelegt werden. Über diesen Widerspruch entscheidet die nächste Mitgliederversammlung endgültig.
 
 
 ## Beiträge
