@@ -14,7 +14,7 @@
 2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung.
     Dieser Zweck wird verwirklicht durch
     1. Bereitstellung wissenschaftlicher Software unter OSI-anerkannten Open-Source-Lizenzen,
-    2. Unterstützung bei der Weiterentwicklung ebendieser Software, und
+    2. Unterstützung bei der Weiterentwicklung, Wartung und Dokumentation ebendieser Software, und
     3. $(ZWECK)
 
 
