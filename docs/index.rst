@@ -5,9 +5,8 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   about_oemof
-   usage
-   developing_oemof
+   about
+   packages
    contributing
 
 Indices and tables
