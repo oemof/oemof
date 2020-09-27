@@ -84,9 +84,9 @@ The following projects are in an early stage of development and might change fre
    :width: 54px
 
 .. |github_windpowerlib| image:: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-   :target: https://github.com/oemof/windpowerlib
+   :target: https://github.com/wind-python/windpowerlib
    :height: 24px
 
 .. |github_dnhx| image:: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-   :target: https://github.com/oemof/dnhx
+   :target: https://github.com/oemof/dhnx
    :height: 24px
