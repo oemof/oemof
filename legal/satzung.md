@@ -115,7 +115,7 @@
 ## Auflösung
 
 1. Die Auflösung des Vereins kann nur in einer Mitgliederversammlung,
-    die explizit zu diesme Zweck einberufen wurde,
+    die explizit zu diesem Zweck einberufen wurde,
     mit einer Mehrheit von 3/4 der erschienenen Mitglieder aufgelöst werden.
 2. Falls die Mitgliederversammlung nichts anderes beschließt, übernimmt der Vorstand die Liquidation.
 3. Bei Auflösung des Vereins oder Wegfall des bisherigen Zwecks fällt das Vermögen des Vereins an $(GEMEINNÜTZIGER EMPFÄNGER),
