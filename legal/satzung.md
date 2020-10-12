@@ -119,4 +119,4 @@
     mit einer Mehrheit von 3/4 der erschienenen Mitglieder aufgelöst werden.
 2. Falls die Mitgliederversammlung nichts anderes beschließt, übernimmt der Vorstand die Liquidation.
 3. Bei Auflösung des Vereins oder Wegfall des bisherigen Zwecks fällt das Vermögen des Vereins an $(GEMEINNÜTZIGER EMPFÄNGER),
-    der es unmittelbar und ausschließlich für gemeinnützigen Zwecke zu verwenden hat.
+    der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
