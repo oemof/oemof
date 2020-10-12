@@ -31,10 +31,10 @@
 1. Die Organe des Vereins sind
     1. die Mitgliederversammlung und
     2. der Vorstand.
-2. Der Vorstand besteht drei Mitgliedern,
+2. Der Vorstand besteht aus drei Mitgliedern,
     1. der Sprecher*in,
     2. der Schriftführer*in und
-    3. der Kassenwärt*in.
+    3. der Kassenwart*in.
 3. Der Vorstand vertritt den Verein gerichtlich und außergerichtlich im Sinne des § 26 BGB,
     wobei jedes Vorstandsmitglied für sich zur Vertetung des Vereins berechtigt ist.
 4. Der Vorstand gibt sich eine Geschäftsordnung, die von der Mitgliederversammlung bestätigt werden muss.
@@ -44,7 +44,7 @@
 
 1. Sämtliche Treffen des Vereins und seiner Organe können mittels Fernkommunikationsmittel unter Beachtung zumutbarer Identitätskontrollen durchgeführt werden.
 2. Benachrichtigungsfristen gelten als erfüllt, wenn die Benachrichtigung vor Verstreichen der Frist abgeschickt oder veröffentlicht wurde.
-3. Eine Benachrichtigung gilt als zugestellt, wenn sie an die letzte dem Verein bekannte Adresse verschickt oder auf der Webseite des Vereins veröffentlicht wurde wurde.
+3. Eine Benachrichtigung gilt als zugestellt, wenn sie an die letzte dem Verein bekannte Adresse verschickt oder auf der Webseite des Vereins veröffentlicht wurde.
 4. Bei Zustimmung einer zu benachrichtigenden Person kann gegenüber dieser auf die Einhaltung von Benachrichtigungsfristen und -formalien verzichtet werden.
 
 
