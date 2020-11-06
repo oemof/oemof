@@ -35,6 +35,7 @@
     1. der Sprecher*in,
     2. der Schriftführer*in und
     3. der Kassenwart*in.
+    Diese dürfen nicht beim selben Arbeitgeber beschäftigt sein.
 3. Der Vorstand vertritt den Verein gerichtlich und außergerichtlich im Sinne des § 26 BGB,
     wobei jedes Vorstandsmitglied für sich zur Vertetung des Vereins berechtigt ist.
 4. Der Vorstand gibt sich eine Geschäftsordnung, die von der Mitgliederversammlung bestätigt werden muss.
@@ -50,7 +51,7 @@
 
 ## Mitgliedschaft
 
-1. Mitglied des Vereins kann jede volljährige natürliche Person werden.
+1. Mitglieder des Vereins können volljährige natürliche sowie juristische Personen werden.
 2. Die Beitrittserklärung erfolgt gegenüber dem Vorstand.
 3. Über Aufnahme entscheidet der Vorstand. Die Aufnahme erfolgt nach freiem Ermessen.
     Bei Ablehnung ist er nicht verpflichtet, dem Antragsteller die Gründe hierfür mitzuteilen.
