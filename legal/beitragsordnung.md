@@ -14,7 +14,7 @@ für den es den Jahresbeitrag entrichtet hat.
 Während des laufenden Jahres eintretende Mitglieder haben
 den vollen Jahresbeitrag zu entrichten.
 
-Der Sektionsanteil kann bei Vorliegen besonderer Umstände
+Der Mitgliedsbeitrag kann bei Vorliegen besonderer Umstände
 vom Vorstand auf Antrag ermäßigt oder erlassen werden.
 
 Jedes Mitglied ist verpflichtet, Änderungen der
