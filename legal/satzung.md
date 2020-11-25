@@ -35,7 +35,7 @@
     1. der Sprecher*in,
     2. der Schriftführer*in und
     3. der Kassenwart*in.
-    Jedes Vorstandsmitglied muss bei einem anderen Arbeitgeber beschäftigt sein.
+    Diese dürfen nicht beim selben Arbeitgeber beschäftigt sein.
 3. Der Vorstand vertritt den Verein gerichtlich und außergerichtlich im Sinne des § 26 BGB,
     wobei jedes Vorstandsmitglied für sich zur Vertetung des Vereins berechtigt ist.
 4. Der Vorstand gibt sich eine Geschäftsordnung, die von der Mitgliederversammlung bestätigt werden muss.
