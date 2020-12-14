@@ -26,7 +26,7 @@ The formulation of the energy system is based on the oemof-network library but c
 `oemof-thermal <https://github.com/oemof/oemof-thermal>`_
 =========================================================
 
-Coming soon...
+`oemof.thermal <https://github.com/oemof/oemof-thermal>`_ is an oemof library with a focus on thermal energy technologies (heating/cooling). In its original intention it is an extension to the components of the optimization framework oemof.solph. However, some of its functions may be useful for their own.
 
 
 `cydets <https://github.com/oemof/cydets>`_
@@ -51,14 +51,11 @@ It is currently under revision (see `here <https://github.com/oemof/feedinlib/is
 See `documentation of the feedinlib <https://feedinlib.readthedocs.io/en/stable/>`_ for a full description of the library.
 
 
-
-
-
 `tespy <https://github.com/oemof/tespy>`_
 =========================================
 
 Thermal Engineering Systems in Python
-(`TESPy <https://github.com/oemof/cydets>`_) allows you to calculate
+(`TESPy <https://github.com/oemof/tespy>`_) allows you to calculate
 stationary operation in order to design the process of thermal energy systems.
 From that point it is possible to simulate the offdesign behavior of your
 plant using underlying characteristics for each of the plants components.
