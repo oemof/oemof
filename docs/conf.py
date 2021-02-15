@@ -17,10 +17,10 @@ extensions = [
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'oemof'
-year = '2014-2020'
+year = '2014-2021'
 author = 'oemof developer group'
 copyright = '{0}, {1}'.format(year, author)
-version = release = '0.4.0.beta0'
+version = release = ''
 
 pygments_style = 'trac'
 templates_path = ['.']
@@ -34,6 +34,7 @@ on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 if not on_rtd:  # only set the theme if we're building docs locally
     html_theme = 'sphinx_rtd_theme'
 
+html_logo = '../logo/logo_oemof_mid.svg'
 html_use_smartypants = True
 html_last_updated_fmt = '%b %d, %Y'
 html_split_index = False
