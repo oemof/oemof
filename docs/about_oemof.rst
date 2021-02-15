@@ -10,6 +10,9 @@ This overview has been developed to make oemof easy to use and develop. It descr
     :backlinks: top
 
 
+.. figure:: ../logo/logo_oemof_big.svg
+    :align: center
+
 The idea of an open framework
 ==============================
 
