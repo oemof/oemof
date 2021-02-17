@@ -1,0 +1,7 @@
+`oemof-solph <https://oemof-solph.readthedocs.io>`_, A model generator for energy system modelling and optimisation (LP/MILP), |github_oemof-solph| |zenodo_oemof-solph|
+`oemof-thermal <https://oemof-thermal.readthedocs.io>`_, "Tools to model thermal energy components (compression heat pumps, concentrating solar plants, thermal storages and solar thermal collectors) as an extension of oemof-solph ", |github_oemof-thermal| |zenodo_oemof-thermal|
+`CyDeTS <https://github.com/oemof/cydets>`_, Cycle Detection in Time Series (CyDeTS). An algorithm to detect cycles in times series along with their respective depth-of-cycle (DoC) and duration, |github_cydets| |zenodo_cydets|
+`demandlib <https://demandlib.readthedocs.io>`_,  Generate load profiles for elctricity and heat demand, |github_demandlib| |zenodo_demandlib|
+`feedinlib <https://feedinlib.readthedocs.io>`_, Calculate feedin timeseries for fluctuating renewable energy source from Open Data weather data, |github_feedinlib| |zenodo_feedinlib|
+`TESPy <https://tespy.readthedocs.io>`_, "Thermal Engineering Systems in Python (TESPy). Powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps", |github_tespy| |zenodo_tespy|
+`windpowerlib <https://windpowerlib.readthedocs.io>`_, Calculate the power output of wind turbines, |github_windpowerlib| |zenodo_windpowerlib|

@@ -163,7 +163,7 @@ Documentation
 =============
 
 
-The meta `documentation of oemof <https://oemof.readthedocs.io>`_ is power by readthedocs.
+The meta `documentation of oemof <https://oemof.readthedocs.io>`_ is hosted on ReadTheDocs.
 
 
 Development
