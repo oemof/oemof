@@ -4,7 +4,7 @@ Open Energy Modelling Framework (oemof)
 .. image:: _files/logo_oemof_website_big.png
    :width: 60 %
 
-The open energy modelling framework (oemof) refers to a collection of python libraries for energy symtem modelling that are open source licensed.
+The open energy modelling framework (oemof) refers to a collection of python libraries for energy system modelling that are open source licensed.
 Originally, it was developed a as single library to ease the process of creating energy system models for the heat and power sector.
 Today, it is distinguished into several :ref:`packages_label` that each is specified for a certain task in the energy system modeling process.
 Sometimes, due to historical reasons, oemof gets mixed up with the most recognised oemof library `oemof-solph <https://oemof-solph.readthedocs.io>`_ which is used for building LP/MILP energy system models.
