@@ -148,6 +148,9 @@ Projects in an early state
 * `DHNx <https://github.com/oemof/dhnx>`_
    District heating system optimisation and simulation models
 
+* `hydropowerlib <https://github.com/hydro-python/hydropowerlib>`_
+   The hydropowerlib is designed to calculate feedin time series of run-of-the-river hydropower plants.
+
 
 Installation
 ============
