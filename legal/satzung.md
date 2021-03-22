@@ -87,7 +87,9 @@
 2. Einmal im Geschäftsjahr soll eine ordentliche Mitgliederversammlung stattfinden.
     Eine außerordentliche Mitgliederversammlung ist einzuberufen,
     wenn die Umstände dies erfordern. Genaueres regelt die Geschäftsordnung.
-3. Mitgliederversammlungen werden vom Vorstand unter Einhaltung einer Frist von vierzehn Tagen unter Vorschlag einer Tagesordnung einberufen.
+3. Mitgliederversammlungen werden vom Vorstand unter Einhaltung einer Frist von achtundzwanzig Tagen unter Vorschlag einer Tagesordnung einberufen.
+    Jedes Mitglied kann die Aufnahme weiterer Tagesordnungspunkte verlangen.
+    Über die finale Tagesordnung entscheidet die Mitgliederversammlung.
 4. Leitung und Vorsitz obliegt der Sprecher*in, bei deren Abwesenheit einem anderen Vorstandsmitglied.
     Sollte kein Vorstandsmitlgied anwesend sein, bestimmt die Mitgliederversammlung eine Versamlungsleitung.
     Bei Wahlen kann die Versamlungsleitung für die Dauer des Wahlvorgangs und der vorhergehenden Diskussion an ein anderes Mitglied übertragen werden.
