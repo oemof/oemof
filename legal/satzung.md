@@ -88,7 +88,7 @@
     Eine außerordentliche Mitgliederversammlung ist einzuberufen,
     wenn die Umstände dies erfordern. Genaueres regelt die Geschäftsordnung.
 3. Mitgliederversammlungen werden vom Vorstand unter Einhaltung einer Frist von vierzehn Tagen unter Vorschlag einer Tagesordnung einberufen.
-4. Leitung und Vorsitz obliegt dem Vorstandsvorsitzenden, bei dessen Abwesenheit einem anderen Vorstandsmitglied.
+4. Leitung und Vorsitz obliegt der Sprecher*in, bei deren Abwesenheit einem anderen Vorstandsmitglied.
     Sollte kein Vorstandsmitlgied anwesend sein, bestimmt die Mitgliederversammlung eine Versamlungsleitung.
     Bei Wahlen kann die Versamlungsleitung für die Dauer des Wahlvorgangs und der vorhergehenden Diskussion an ein anderes Mitglied übertragen werden.
 5. Eine satzungsgemäß einberufene Mitgliederversammlung ist in jedem Fall beschlussfähig.
