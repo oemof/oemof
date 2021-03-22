@@ -40,6 +40,7 @@
 3. Der Vorstand vertritt den Verein gerichtlich und außergerichtlich im Sinne des § 26 BGB,
     wobei jedes Vorstandsmitglied für sich zur Vertetung des Vereins berechtigt ist.
 4. Der Vorstand gibt sich eine Geschäftsordnung, die von der Mitgliederversammlung bestätigt werden muss.
+6.   Der Vorstand ist Dienstvorgesetzer aller beim Verein beschäftigter Personen.
 
 
 ## Treffen und Kommunikation
