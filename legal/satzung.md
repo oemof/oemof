@@ -11,11 +11,12 @@
 ## Zweck und Ziele
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
-2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung.
+2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung und Förderung des Umweltschutzes.
     Dieser Zweck wird verwirklicht durch
     1. Bereitstellung wissenschaftlicher Software unter OSI-anerkannten Open-Source-Lizenzen,
     2. Unterstützung bei der Weiterentwicklung, Wartung und Dokumentation ebendieser Software, und
     3. $(ZWECK)
+    4. 
 
 
 ## Selbstlosigkeit
