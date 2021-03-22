@@ -85,6 +85,8 @@
     8. Satzungsänderungen und
     9. Auflösung des Vereins.
 2. Einmal im Geschäftsjahr soll eine ordentliche Mitgliederversammlung stattfinden.
+    Eine außerordentliche Mitgliederversammlung ist einzuberufen,
+    wenn die Umstände dies erfordern. Genaueres regelt die Geschäftsordnung.
 3. Mitgliederversammlungen werden vom Vorstand unter Einhaltung einer Frist von vierzehn Tagen unter Vorschlag einer Tagesordnung einberufen.
 4. Leitung und Vorsitz obliegt dem Vorstandsvorsitzenden, bei dessen Abwesenheit einem anderen Vorstandsmitglied.
     Sollte kein Vorstandsmitlgied anwesend sein, bestimmt die Mitgliederversammlung eine Versamlungsleitung.
