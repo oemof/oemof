@@ -114,7 +114,7 @@
     Diese haben die Aufgabe, das jeweils zurückliegende Geschäftsjahr des Vereins buchhalterisch zu prüfen.
 2. Den Finanzprüfer*innen sind zur Prüfung sämtliche Unterlagen des Vereins, Rechnungen, Bankauszüge und dergleichen zur Verfügung zu stellen.
 3. Finanzprüfer*innen müssen voll geschäftsfähige Mitglieder des Vereins sein.
-    Sie dürfen nicht Vorstandsmitglied sein.
+    Sie dürfen nicht Vorstandsmitglied und nicht beim Verein angestellt sein.
 4. Die Kassenprüfung soll spätestens einen Monat vor der ordentlichen Mitgliederversammlung abgeschlossen sein.
 
 
