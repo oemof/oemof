@@ -3,17 +3,22 @@
 
 ## Name, Sitz, Geschäftsjahr
 
-1.   Der Verein trägt den Namen *open energy modeling foundation* (oemof)
-2.   Sitz des Vereins ist $(SITZ).
+1.   Der Verein trägt den Namen *open energy modelling foundation* (oemof).
+      Der Verein soll ins Vereinsregister eingetragen werden.
+      Nach der Eintragung wird der Name um den Zusatz "e.V." ergänzt.
+2.   Sitz des Vereins ist Berlin.
 3.   Das Geschäftsjahr ist das Kalenderjahr.
+    Das Gründungsjahr ist ein Rumpfjahr.
 
 
 ## Zweck und Ziele
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
-2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung und Förderung des Umweltschutzes.
+2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung.
     Dieser Zweck wird verwirklicht durch
-    1. Bereitstellung wissenschaftlicher Software unter OSI-anerkannten Open-Source-Lizenzen,
+    1. Bereitstellung wissenschaftlicher Software,
+         insbesondere von Software des "Open Energy Modelling Frameworks",
+         unter OSI-anerkannten Open-Source-Lizenzen,
     2. Unterstützung bei der Weiterentwicklung, Wartung und Dokumentation ebendieser Software, und
     3. $(ZWECK)
     4. 
@@ -105,7 +110,7 @@
 2. Satzungsänderungen, die von Aufsichts-, Berichts- oder Finanzbehörden aus formellen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen.
     Satzungsänderungen müssen den Mitgliedern alsbald in Textform mitgeteilt werden.
 3. Die Satzung besitzt Rechtsgültigkeit in ihrer Fassung in deutscher Sprache.
-    Zusätzlich ist eine englische Übersetzung anzufertigen,
+    Zusätzlich ist eine englische Übersetzung (British English) anzufertigen,
     die rein informativen Charakter besitzt.
     Inhaltliche Änderungen sind immer an beiden Fassungen vorzunehmen.
 
@@ -124,7 +129,7 @@
 
 1. Die Auflösung des Vereins kann nur in einer Mitgliederversammlung,
     die explizit zu diesem Zweck einberufen wurde,
-    mit einer Mehrheit von 3/4 der erschienenen Mitglieder aufgelöst werden.
+    mit einer Mehrheit von 3/4 der abgegebenen Stimmen und maximal fünf Gegenstimmen aufgelöst werden.
 2. Falls die Mitgliederversammlung nichts anderes beschließt, übernimmt der Vorstand die Liquidation.
-3. Bei Auflösung des Vereins oder Wegfall des bisherigen Zwecks fällt das Vermögen des Vereins an $(GEMEINNÜTZIGER EMPFÄNGER),
+3. Bei Auflösung des Vereins oder Wegfall des bisherigen Zwecks fällt das Vermögen des Vereins an die "Free Software Foundation Europe",
     der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
