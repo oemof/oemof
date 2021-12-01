@@ -3,7 +3,7 @@
 
 ## Name, Sitz, Geschäftsjahr
 
-1.   Der Verein trägt den Namen *open energy modelling foundation* (oemof).
+1.   Der Verein trägt den Namen oemof.
       Der Verein soll ins Vereinsregister eingetragen werden.
       Nach der Eintragung wird der Name um den Zusatz "e.V." ergänzt.
 2.   Sitz des Vereins ist Berlin.
