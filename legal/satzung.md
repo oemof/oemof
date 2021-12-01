@@ -41,7 +41,8 @@
     1. der Sprecher*in,
     2. der Schriftführer*in und
     3. der Kassenwart*in.
-3.  Die Vorstandsmitglieder müssen voll geschäftsfähige, natürliche Personen und Mitglied des Vereins sein.
+3.   Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt. Wiederwahl ist zulässig. Steht zum Ende der Wahlperiode noch keine Nachfolge fest, führt das Vortandsmitglied sein Amt noch bis zur nächsten Mitgliederversammlung.
+4.  Die Vorstandsmitglieder müssen voll geschäftsfähige, natürliche Personen und Mitglied des Vereins sein.
     Jeweils zwei Vorstandsmitglieder dürfen nicht beim selben Arbeitgeber beschäftigt sein.
 3. Der Vorstand vertritt den Verein gerichtlich und außergerichtlich im Sinne des § 26 BGB,
     wobei jedes Vorstandsmitglied für sich zur Vertetung des Vereins berechtigt ist.
