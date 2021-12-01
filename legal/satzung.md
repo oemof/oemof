@@ -3,11 +3,11 @@
 
 ## Name, Sitz, Geschäftsjahr
 
-1.   Der Verein trägt den Namen oemof.
-      Der Verein soll ins Vereinsregister eingetragen werden.
-      Nach der Eintragung wird der Name um den Zusatz "e.V." ergänzt.
-2.   Sitz des Vereins ist Berlin.
-3.   Das Geschäftsjahr ist das Kalenderjahr.
+1.  Der Verein trägt den Namen "oemof".
+    Der Verein soll ins Vereinsregister eingetragen werden.
+    Nach der Eintragung wird der Name um den Zusatz "e.V." ergänzt.
+2.  Sitz des Vereins ist Berlin.
+3.  Das Geschäftsjahr ist das Kalenderjahr.
     Das Gründungsjahr ist ein Rumpfjahr.
 
 
@@ -18,10 +18,8 @@
     Dieser Zweck wird verwirklicht durch
     1. Bereitstellung wissenschaftlicher Software,
          insbesondere von Software des "Open Energy Modelling Frameworks",
-         unter OSI-anerkannten Open-Source-Lizenzen,
-    2. Unterstützung bei der Weiterentwicklung, Wartung und Dokumentation ebendieser Software, und
-    3. $(ZWECK)
-    4. 
+         unter von der "Open Source Initiative" anerkannten Open-Source-Lizenzen und
+    2. Unterstützung bei der Weiterentwicklung, Wartung, Anwendung und Dokumentation ebendieser Software.
 
 
 ## Selbstlosigkeit
@@ -37,17 +35,17 @@
 1. Die Organe des Vereins sind
     1. die Mitgliederversammlung und
     2. der Vorstand.
-2. Der Vorstand besteht aus drei Mitgliedern,
-    1. der Sprecher*in,
-    2. der Schriftführer*in und
-    3. der Kassenwart*in.
+2. Der Vorstand besteht aus drei Mitgliedern:
+    1. Sprecher*in,
+    2. Schriftführer*in und
+    3. Kassenwart*in.
 3.   Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt. Wiederwahl ist zulässig. Steht zum Ende der Wahlperiode noch keine Nachfolge fest, führt das Vortandsmitglied sein Amt noch bis zur nächsten Mitgliederversammlung.
 4.  Die Vorstandsmitglieder müssen voll geschäftsfähige, natürliche Personen und Mitglied des Vereins sein.
-    Jeweils zwei Vorstandsmitglieder dürfen nicht beim selben Arbeitgeber beschäftigt sein.
-3. Der Vorstand vertritt den Verein gerichtlich und außergerichtlich im Sinne des § 26 BGB,
+    Jeweils zwei Vorstandsmitglieder sollen nicht beim selben Arbeitgeber beschäftigt sein.
+5.  Der Vorstand vertritt den Verein gerichtlich und außergerichtlich im Sinne des § 26 BGB,
     wobei jedes Vorstandsmitglied für sich zur Vertetung des Vereins berechtigt ist.
-4. Der Vorstand gibt sich eine Geschäftsordnung, die von der Mitgliederversammlung bestätigt werden muss.
-6.   Der Vorstand ist Dienstvorgesetzer aller beim Verein beschäftigter Personen.
+6.  Der Vorstand gibt sich eine Geschäftsordnung, die von der Mitgliederversammlung bestätigt werden muss.
+7.  Der Vorstand ist Dienstvorgesetzer aller beim Verein beschäftigter Personen.
 
 
 ## Treffen und Kommunikation
@@ -63,11 +61,11 @@
 1. Mitglieder des Vereins können volljährige natürliche sowie juristische Personen werden.
 2. Die Beitrittserklärung erfolgt gegenüber dem Vorstand.
 3. Über Aufnahme entscheidet der Vorstand. Die Aufnahme erfolgt nach freiem Ermessen.
-    Bei Ablehnung ist er nicht verpflichtet, dem Antragsteller die Gründe hierfür mitzuteilen.
-4. Die Mitgliedschaft endet durch Austritt aus dem Verein, durch Tod, Ausschluss, Streichung von der Mitgliederliste.
+    Bei Ablehnung ist er nicht verpflichtet, der/dem Antragsteller*in die Gründe hierfür mitzuteilen.
+4. Die Mitgliedschaft endet durch Austritt aus dem Verein, durch Tod, Ausschluss oder Streichung von der Mitgliederliste.
 5. Ein Mitglied kann durch Beschluss des Vorstandes von der Mitgliederliste gestrichen werden, wenn es trotz schriftlicher Mahnung mit der Bezahlung von Mitgliedsbeiträgen oder von Umlagen im Rückstand ist.
     Diese Streichung befreit das Mitglied nicht von der Begleichung rückständiger Beiträge und Umlagen.
-6. Ein Mitglied kann ausgeschlossen werden, wenn es schuldhaft in grober Weise die Interessen des Vereins verletzt. Der Ausschluss erfolgt durch Beschluss [des Vorstandes / der Mitgliederversammlung]: Vor der Beschlussfassung muss dem Mitglied Gelegenheit zur mündlichen oder schriftlichen Stellungnahme gegeben werden. Der Beschluss ist schriftlich zu begründen und dem Mitglied mitzuteilen. Hiergegen kann innerhalb eines Monats nach Zugang des Beschlusses beim Vorstand Widerspruch eingelegt werden. Über diesen Widerspruch entscheidet die nächste Mitgliederversammlung endgültig.
+6. Ein Mitglied kann ausgeschlossen werden, wenn es schuldhaft in grober Weise die Interessen des Vereins verletzt. Der Ausschluss erfolgt durch Beschluss der Mitgliederversammlung. Vor der Beschlussfassung muss dem Mitglied Gelegenheit zur mündlichen oder schriftlichen Stellungnahme gegeben werden. Der Beschluss ist schriftlich zu begründen und dem Mitglied mitzuteilen. Hiergegen kann innerhalb eines Monats nach Zugang des Beschlusses beim Vorstand Widerspruch eingelegt werden. Über diesen Widerspruch entscheidet die nächste Mitgliederversammlung endgültig.
 
 
 ## Beiträge
@@ -133,4 +131,4 @@
     mit einer Mehrheit von 3/4 der abgegebenen Stimmen und maximal fünf Gegenstimmen aufgelöst werden.
 2. Falls die Mitgliederversammlung nichts anderes beschließt, übernimmt der Vorstand die Liquidation.
 3. Bei Auflösung des Vereins oder Wegfall des bisherigen Zwecks fällt das Vermögen des Vereins an die "Free Software Foundation Europe",
-    der es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
+    die es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
