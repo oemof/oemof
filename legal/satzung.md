@@ -96,7 +96,7 @@
     Über die finale Tagesordnung entscheidet die Mitgliederversammlung.
 4. Leitung und Vorsitz obliegt der Sprecher*in, bei deren Abwesenheit einem anderen Vorstandsmitglied.
     Sollte kein Vorstandsmitlgied anwesend sein, bestimmt die Mitgliederversammlung eine Versamlungsleitung.
-    Bei Wahlen kann die Versamlungsleitung für die Dauer des Wahlvorgangs und der vorhergehenden Diskussion an ein anderes Mitglied übertragen werden.
+    Bei Wahlen kann die Versammlungsleitung für die Dauer des Wahlvorgangs und der vorhergehenden Diskussion an ein anderes Mitglied übertragen werden.
 5. Eine satzungsgemäß einberufene Mitgliederversammlung ist in jedem Fall beschlussfähig.
 6. Steht in Abstimmungen nur eine Option zur Wahl, so ist Abstimmung per Akklamation zulässig.
 
