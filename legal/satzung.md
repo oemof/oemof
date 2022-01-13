@@ -85,9 +85,9 @@
     2. Wahl der Finanzprüfer*innen,
     3. Beschlussfassung über den Jahresbericht des Vorstandes,
     4. Entlastung des Vorstandes,
-    6. Verabschiedung der Beitragsordnung,
-    8. Satzungsänderungen und
-    9. Auflösung des Vereins.
+    5. Verabschiedung der Beitragsordnung,
+    6. Satzungsänderungen und
+    7. Auflösung des Vereins.
 2. Einmal im Geschäftsjahr soll eine ordentliche Mitgliederversammlung stattfinden.
     Eine außerordentliche Mitgliederversammlung ist einzuberufen,
     wenn die Umstände dies erfordern. Genaueres regelt die Geschäftsordnung.
