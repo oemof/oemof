@@ -25,3 +25,7 @@ um ein Meinungsbild bitten.
 
 Der Vorstand ist dazu angehalten, die Mitglieder über Ein- und Austritte zu informieren,
 insbesondere wenn ein Antrag auf Mitgliedschaft abgelehnt wird.
+
+## Dokumentation und Transparenz
+
+
