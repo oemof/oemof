@@ -14,7 +14,7 @@
 
 ## Geschäftstätigkeiten des Vorstandes
 
-Im Falle von Ausgaben größer als X €, sollte der Vorstand das Plenum/die Mitglieder
+Im Falle von Ausgaben größer als 100 €, sollte der Vorstand das Plenum/die Mitglieder
 um ein Meinungsbild bitten.
 
 
