@@ -96,11 +96,13 @@ It is not legally binding and is provided primarily for your convenience.
 3. General meetings shall be convened by the board of directors with twenty-eight days' notice and with a proposed agenda.
     Any member may request the inclusion of additional items on the agenda.
     The final agenda shall be decided by the general meeting.
-The meeting shall be chaired by the spokesperson or, in his/her absence, by another member of the executive board.
+4. The meeting shall be chaired by the spokesperson or, in his/her absence, by another member of the executive board.
     If no board member is present, the general meeting will appoint a chairperson.
     In the case of elections, the chairmanship of the meeting may be delegated to another member for the duration of the election process and the preceding discussion.
+    Furthermore, the meeting appoints a person to keep the minutes for the meeting.
 5. A general meeting convened in accordance with the statutes shall in any case constitute a quorum.
 6. If in votes only one option stands to the choice, then tuning is permissible by acclamation.
+7. The protocol of the general meeting has to be signed by the by the meetings chair and the keeper of the minutes.
 
 
 ## Amendments to the Statutes
