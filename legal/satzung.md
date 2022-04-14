@@ -70,7 +70,7 @@
 
 ## Beiträge
 
-1. Der Verein kann einen Jahresbeitrag und einen Aufnahmebeitrag erheben.
+1. Der Verein erhebt einen Mitgliedsbeitrag für alle Arten von Mitgliedern.
     Die maximale Höhe dieser Beiträge ist von der Mitgliederversammlung festzulegen.
 2. In begründeten Fällen können Mitglieder von der Beitragspflicht ausgenommen werden.
 3. Näheres regelt die Beitragsordnung.

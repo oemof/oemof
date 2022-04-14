@@ -73,7 +73,7 @@ It is not legally binding and is provided primarily for your convenience.
 
 ## Contributions
 
-1. The association may charge an annual membership fee and an admission fee.
+1. The association charges a membership fee for all types of members.
     The maximum amount of these contributions is to be determined by the general meeting.
 2. In justified cases members can be exempted from the obligation to contribute.
 3. More details are regulated by the contribution rules.
