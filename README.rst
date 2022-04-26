@@ -1,6 +1,6 @@
-=================================================
-Overview: Open Energy Modelling Framework (oemof)
-=================================================
+=======================================
+Open Energy Modelling Framework (oemof)
+=======================================
 .. start-badges
 
 .. comment
@@ -65,6 +65,8 @@ Overview: Open Energy Modelling Framework (oemof)
         :target: https://travis-ci.org/oemof/oemof
 
 .. end-badges
+
+.. figure:: logo/logo_oemof_big.svg
 
 The Open Energy Modelling Framework (oemof) is a Python toolbox for energy system modelling and optimisation.
 
@@ -161,7 +163,7 @@ Documentation
 =============
 
 
-The meta `documentation of oemof <https://oemof.readthedocs.io>`_ is power by readthedocs.
+The meta `documentation of oemof <https://oemof.readthedocs.io>`_ is hosted on ReadTheDocs.
 
 
 Development
