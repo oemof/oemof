@@ -16,7 +16,7 @@
 
 ## Business activities of the executive board
 
-In case of expenditures greater than X €, the board should ask the plenum/members
+In case of expenditures greater than 100 €, the board should ask the plenum/members
 for an opinion
 
 ... to be continued.
