@@ -10,7 +10,7 @@
 
 3. Kassenwart*in
 
-    Die Kassenwart*in obliegt die Aufsicht über Ausgaben, Einnahmen und Finanzmittel. 
+    Der Kassenwart*in obliegt die Aufsicht über Ausgaben, Einnahmen und Finanzmittel. 
 
 ## Geschäftstätigkeiten des Vorstandes
 
