@@ -70,7 +70,7 @@
 
 ## Beiträge
 
-1. Der Verein kann einen Jahresbeitrag und einen Aufnahmebeitrag erheben.
+1. Der Verein erhebt einen Mitgliedsbeitrag für alle Arten von Mitgliedern.
     Die maximale Höhe dieser Beiträge ist von der Mitgliederversammlung festzulegen.
 2. In begründeten Fällen können Mitglieder von der Beitragspflicht ausgenommen werden.
 3. Näheres regelt die Beitragsordnung.
@@ -85,9 +85,9 @@
     2. Wahl der Finanzprüfer*innen,
     3. Beschlussfassung über den Jahresbericht des Vorstandes,
     4. Entlastung des Vorstandes,
-    6. Verabschiedung der Beitragsordnung,
-    8. Satzungsänderungen und
-    9. Auflösung des Vereins.
+    5. Verabschiedung der Beitragsordnung,
+    6. Satzungsänderungen und
+    7. Auflösung des Vereins.
 2. Einmal im Geschäftsjahr soll eine ordentliche Mitgliederversammlung stattfinden.
     Eine außerordentliche Mitgliederversammlung ist einzuberufen,
     wenn die Umstände dies erfordern. Genaueres regelt die Geschäftsordnung.
@@ -96,9 +96,11 @@
     Über die finale Tagesordnung entscheidet die Mitgliederversammlung.
 4. Leitung und Vorsitz obliegt der Sprecher*in, bei deren Abwesenheit einem anderen Vorstandsmitglied.
     Sollte kein Vorstandsmitlgied anwesend sein, bestimmt die Mitgliederversammlung eine Versamlungsleitung.
-    Bei Wahlen kann die Versamlungsleitung für die Dauer des Wahlvorgangs und der vorhergehenden Diskussion an ein anderes Mitglied übertragen werden.
+    Bei Wahlen kann die Versammlungsleitung für die Dauer des Wahlvorgangs und der vorhergehenden Diskussion an ein anderes Mitglied übertragen werden.
+    Darüber hinaus bestimmt die Mitgliederversammlung eine weitere Person zur Führung des Protokolls.
 5. Eine satzungsgemäß einberufene Mitgliederversammlung ist in jedem Fall beschlussfähig.
 6. Steht in Abstimmungen nur eine Option zur Wahl, so ist Abstimmung per Akklamation zulässig.
+7. Das Protokoll der Mitgliederversammlung ist von der Versammlungsleitung und von der protokollführenden Person zu unterzeichnen.
 
 
 ## Satzungsänderungen

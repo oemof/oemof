@@ -1,8 +1,9 @@
 # Beitragsordnung
 
 Der Jahresbeitrag wird von den Mitgliedern selbst gewählt. Er beträgt jedoch mindestens
-1. 30 € für natürliche Personen,
-2. 500 € für Institute und sonstige juristische Personen. 
+1. 5 € reduzierten Beitrag für natürliche Personen, bei Bedürftigkeit basierend auf Selbstauskunft,
+2. 30 € normalen Beitrag für natürliche Personen  und
+3. 500 € für Institutionen und andere juristische Personen. 
 
 Jedes Mitglied hat den Jahresbeitrag spätestens bis zum 31. Januar des Jahres
 zu entrichten.
