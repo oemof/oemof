@@ -4,7 +4,7 @@ Note: This is a translation of the German version.
 It is not legally binding and is provided primarily for your convenience. 
 
 
-## Name, seat, business year
+## § 1 Name, seat, business year
 
 1. The association bears the name "oemof".
    The association shall be registered in the register of associations.
@@ -14,7 +14,7 @@ It is not legally binding and is provided primarily for your convenience.
    The founding year is a truncated year.
 
 
-## Purpose and goals
+## § 2 Purpose and goals
 
 1. The association pursues exclusively and directly non-profit purposes in the sense of the section "tax-privileged purposes" of the tax code.
 2. The purpose of the association is the promotion of science and research.
@@ -25,7 +25,7 @@ It is not legally binding and is provided primarily for your convenience.
     2. supporting the further development, maintenance, application and documentation of this software.
 
 
-## Selflessness
+## § 3 Selflessness
 
 1. The association is selfless active. It does not primarily pursue its own economic purposes.
 2. The means of the association may be used only for its statutory purposes.
@@ -33,7 +33,7 @@ It is not legally binding and is provided primarily for your convenience.
 3. No person may be favored by expenditures, which are foreign to the purpose of the association, or by disproportionately high privileges.
 
 
-## Bodies of the Association
+## § 4 Bodies of the Association
 
 1. The organs of the association are
     1. the general meeting and
@@ -51,7 +51,7 @@ It is not legally binding and is provided primarily for your convenience.
 7. The executive board is the superior of all persons employed by the association.
 
 
-## Meetings and communication
+## § 5 Meetings and communication
 
 1. All meetings of the association and its bodies may be held by means of remote communication, subject to reasonable identity checks.
 2. Notice deadlines shall be deemed to have been met if the notice has been sent or posted before the deadline has passed.
@@ -59,7 +59,7 @@ It is not legally binding and is provided primarily for your convenience.
 4. If a person to be notified agrees, notice deadlines and formalities may be waived with respect to that person.
 
 
-## Membership
+## § 6 Membership
 
 1. Natural persons of full age as well as legal entities can become members of the association.
 2. The declaration of membership is made to the board of directors.
@@ -71,14 +71,14 @@ It is not legally binding and is provided primarily for your convenience.
 6. A member can be excluded if he culpably violates the interests of the association in a gross manner. The exclusion takes place by resolution of the meeting of the members. Before the resolution is passed, the member must be given the opportunity to make an oral or written statement. The decision must be justified in writing and communicated to the member. An objection to this may be lodged with the executive board within one month of receipt of the resolution. The next general meeting shall make the final decision on this objection.
 
 
-## Contributions
+## § 7 Contributions
 
 1. The association charges a membership fee for all types of members.
     The maximum amount of these contributions is to be determined by the general meeting.
 2. In justified cases members can be exempted from the obligation to contribute.
 3. More details are regulated by the contribution rules.
 
-## General meeting of members
+## § 8 General meeting of members
 
 1. The supreme body of the association is the general meeting of members.
     All matters provided for in these articles of association or by law shall be subject to its decision-making,
@@ -105,7 +105,7 @@ It is not legally binding and is provided primarily for your convenience.
 7. The protocol of the general meeting has to be signed by the by the meetings chair and the keeper of the minutes.
 
 
-## Amendments to the Statutes
+## § 9 Amendments to the Statutes
 
 1. Amendments to the statutes can be decided by the general meeting with a majority of 2/3 of the votes cast,
     if this point was expressly mentioned on the agenda when the meeting was convened.
@@ -118,7 +118,7 @@ It is not legally binding and is provided primarily for your convenience.
     Changes in content are always to be made to both versions.
 
 
-## Financial audit
+## § 10 Financial audit
 
 1. Two financial auditors are to be elected by the general meeting for one year each.
     They have the task of auditing the accounts of the past fiscal year of the association.
@@ -128,7 +128,7 @@ It is not legally binding and is provided primarily for your convenience.
 4. The financial audit should be completed at least one month before the ordinary general meeting.
 
 
-## Dissolution
+## § 11 Dissolution
 
 1. The dissolution of the association can only be decided in a general meeting,
     which has been explicitly convened for this purpose,

@@ -1,7 +1,7 @@
 # Satzung
 
 
-## Name, Sitz, Geschäftsjahr
+## § 1 Name, Sitz, Geschäftsjahr
 
 1.  Der Verein trägt den Namen "oemof".
     Der Verein soll ins Vereinsregister eingetragen werden.
@@ -11,7 +11,7 @@
     Das Gründungsjahr ist ein Rumpfjahr.
 
 
-## Zweck und Ziele
+## § 2 Zweck und Ziele
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung.
@@ -22,7 +22,7 @@
     2. Unterstützung bei der Weiterentwicklung, Wartung, Anwendung und Dokumentation ebendieser Software.
 
 
-## Selbstlosigkeit
+## § 3 Selbstlosigkeit
 
 1. Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 2. Die Mittel des Vereins dürfen nur für seine satzungsmäßigen Zwecke verwendet werden.
@@ -30,7 +30,7 @@
 3. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergünstigungen begünstigt werden.
 
 
-## Organe des Vereins
+## § 4 Organe des Vereins
 
 1. Die Organe des Vereins sind
     1. die Mitgliederversammlung und
@@ -48,7 +48,7 @@
 7.  Der Vorstand ist Dienstvorgesetzer aller beim Verein beschäftigter Personen.
 
 
-## Treffen und Kommunikation
+## § 5 Treffen und Kommunikation
 
 1. Sämtliche Treffen des Vereins und seiner Organe können mittels Fernkommunikationsmittel unter Beachtung zumutbarer Identitätskontrollen durchgeführt werden.
 2. Benachrichtigungsfristen gelten als erfüllt, wenn die Benachrichtigung vor Verstreichen der Frist abgeschickt oder veröffentlicht wurde.
@@ -56,7 +56,7 @@
 4. Bei Zustimmung einer zu benachrichtigenden Person kann gegenüber dieser auf die Einhaltung von Benachrichtigungsfristen und -formalien verzichtet werden.
 
 
-## Mitgliedschaft
+## § 6 Mitgliedschaft
 
 1. Mitglieder des Vereins können volljährige natürliche sowie juristische Personen werden.
 2. Die Beitrittserklärung erfolgt gegenüber dem Vorstand.
@@ -68,7 +68,7 @@
 6. Ein Mitglied kann ausgeschlossen werden, wenn es schuldhaft in grober Weise die Interessen des Vereins verletzt. Der Ausschluss erfolgt durch Beschluss der Mitgliederversammlung. Vor der Beschlussfassung muss dem Mitglied Gelegenheit zur mündlichen oder schriftlichen Stellungnahme gegeben werden. Der Beschluss ist schriftlich zu begründen und dem Mitglied mitzuteilen. Hiergegen kann innerhalb eines Monats nach Zugang des Beschlusses beim Vorstand Widerspruch eingelegt werden. Über diesen Widerspruch entscheidet die nächste Mitgliederversammlung endgültig.
 
 
-## Beiträge
+## § 7 Beiträge
 
 1. Der Verein erhebt einen Mitgliedsbeitrag für alle Arten von Mitgliedern.
     Die maximale Höhe dieser Beiträge ist von der Mitgliederversammlung festzulegen.
@@ -76,7 +76,7 @@
 3. Näheres regelt die Beitragsordnung.
 
 
-## Mitgliederversammlung
+## § 8 Mitgliederversammlung
 
 1. Oberstes Organ des Vereins ist die Mitgliederversammlung.
     Ihrer Beschlussfassung unterliegen alle in dieser Satzung oder per Gesetz vorgesehenen Gegenstände,
@@ -103,7 +103,7 @@
 7. Das Protokoll der Mitgliederversammlung ist von der Versammlungsleitung und von der protokollführenden Person zu unterzeichnen.
 
 
-## Satzungsänderungen
+## § 9 Satzungsänderungen
 
 1. Satzungsänderungen können von der Mitgliederversammlung mit einer Mehrheit von 2/3 der abgegebenen Stimmen beschlossen werden,
     wenn dieser Punkt ausdrücklich bei der Einberufung auf der Tagesordnung genannt wurde.
@@ -116,7 +116,7 @@
     Inhaltliche Änderungen sind immer an beiden Fassungen vorzunehmen.
 
 
-## Finanzprüfung
+## § 10 Finanzprüfung
 
 1. Zwei Finanzprüfer*innen sind von der Mitgliederversammlung für jeweils ein Jahr zu wählen.
     Diese haben die Aufgabe, das jeweils zurückliegende Geschäftsjahr des Vereins buchhalterisch zu prüfen.
@@ -126,7 +126,7 @@
 4. Die Kassenprüfung soll spätestens einen Monat vor der ordentlichen Mitgliederversammlung abgeschlossen sein.
 
 
-## Auflösung
+## § 11 Auflösung
 
 1. Die Auflösung des Vereins kann nur in einer Mitgliederversammlung,
     die explizit zu diesem Zweck einberufen wurde,
@@ -134,3 +134,4 @@
 2. Falls die Mitgliederversammlung nichts anderes beschließt, übernimmt der Vorstand die Liquidation.
 3. Bei Auflösung des Vereins oder Wegfall des bisherigen Zwecks fällt das Vermögen des Vereins an die "Free Software Foundation Europe",
     die es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
+
