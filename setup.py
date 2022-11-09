@@ -74,7 +74,7 @@ setup(
     keywords=[
         # eg: 'keyword1', 'keyword2', 'keyword3',
     ],
-    python_requires=">=3.8",
+    python_requires=">=3.7",
     install_requires=[
         "cydets",
         "demandlib",
