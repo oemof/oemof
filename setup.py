@@ -27,7 +27,7 @@ githuburl = "@https://github.com/oemof/"
 
 setup(
     name="oemof",
-    version="0.4.0.beta0",
+    version="1.0",
     license="MIT",
     description=(
         "Open Energy Modelling Framework - Python toolbox for energy"
@@ -40,6 +40,7 @@ setup(
         ),
         re.sub(":[a-z]+:`~?(.*?)`", r"``\1``", read("CHANGELOG.rst")),
     ),
+    long_description_content_type="text/x-rst",
     author="oemof developer group",
     author_email="contact@oemof.org",
     url="https://github.com/oemof/oemof",
@@ -73,15 +74,17 @@ setup(
     keywords=[
         # eg: 'keyword1', 'keyword2', 'keyword3',
     ],
-    python_requires=">=3.6",
+    python_requires=">=3.8",
     install_requires=[
-        # eg: 'aspectlib==1.1.1', 'six>=1.7',
+        "cydets",
+        "demandlib",
+        "dhnx",
+        "feedinlib",
+        "oemof.db",
+        "oemof.network",
+        "oemof.solph",
+        "oemof.tools",
+        "tespy",
+        "windpowerlib",
     ],
-    extras_require={
-        "solph": [
-            "oemof.solph{0}oemof-solph/archive/master.zip".format(githuburl)
-        ],
-        "tespy": ["tespy{0}tespy/archive/master.zip".format(githuburl)],
-    },
-    entry_points={"console_scripts": ["oemof = oemof.cli:main", ]},
 )

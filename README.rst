@@ -7,62 +7,12 @@ Open Energy Modelling Framework (oemof)
     .. list-table::
         :stub-columns: 1
 
-        * - docs
-          - |docs|
-        * - tests
-          - | |travis| |appveyor| |requires|
-            | |codecov|
-        * - package
-          - | |version| |wheel| |supported-versions| |supported-implementations|
-            | |commits-since|
-    .. |docs| image:: https://readthedocs.org/projects/oemof/badge/?style=flat
-        :target: https://readthedocs.org/projects/oemof
-        :alt: Documentation Status
 
-    .. |travis| image:: https://api.travis-ci.org/oemof/oemof.svg?branch=master
-        :alt: Travis-CI Build Status
-        :target: https://travis-ci.org/oemof/oemof
-
-    .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/0ri9bxniy0irw4j0/branch/master?svg=true
-        :alt: AppVeyor Build Status
-        :target: https://ci.appveyor.com/project/oemof-developer/oemof
-
-    .. |requires| image:: https://requires.io/github/oemof/oemof/requirements.svg?branch=master
-        :alt: Requirements Status
-        :target: uvchikuvchik
-
-    .. |codecov| image:: https://codecov.io/gh/oemof/oemof/branch/master/graphs/badge.svg?branch=master
-        :alt: Coverage Status
-        :target: https://codecov.io/github/oemof/oemof
-
-    .. |version| image:: https://img.shields.io/pypi/v/oemof.svg
-        :alt: PyPI Package latest release
-        :target: https://pypi.org/project/oemof
-
-    .. |wheel| image:: https://img.shields.io/pypi/wheel/oemof.svg
-        :alt: PyPI Wheel
-        :target: https://pypi.org/project/oemof
-
-    .. |supported-versions| image:: https://img.shields.io/pypi/pyversions/oemof.svg
-        :alt: Supported versions
-        :target: https://pypi.org/project/oemof
-
-    .. |supported-implementations| image:: https://img.shields.io/pypi/implementation/oemof.svg
-        :alt: Supported implementations
-        :target: https://pypi.org/project/oemof
-
-    .. |commits-since| image:: https://img.shields.io/github/commits-since/oemof/oemof/v0.4.0.beta0.svg
-        :alt: Commits since latest release
-        :target: https://github.com/oemof/oemof/compare/v0.4.0.beta0...master
-
-|docs| |travis|
+|docs|
 
 .. |docs| image:: https://readthedocs.org/projects/oemof/badge/?style=flat
         :target: https://readthedocs.org/projects/oemof
         :alt: Documentation Status
-.. |travis| image:: https://api.travis-ci.org/oemof/oemof.svg?branch=master
-        :alt: Travis-CI Build Status
-        :target: https://travis-ci.org/oemof/oemof
 
 .. end-badges
 
@@ -152,11 +102,9 @@ Projects in an early state
 Installation
 ============
 
-It is not possible to install the meta package `oemof`. Use the installation
-guide of the package you want to install from the list above.
-
-Be aware that there are still some packages called `oemof` on pypi. These are
-old versions of `oemof.solph`. See the `oemof-solph <https://github.com/oemof/oemof-solph>`_ repository for the actual version.
+The oemof package is a meta package an will install all (!) oemof packages. This
+is usually not what you want to do. Use the list above to install the packages
+you need.
 
 
 Documentation
