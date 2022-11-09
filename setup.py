@@ -76,6 +76,7 @@ setup(
     ],
     python_requires=">=3.7",
     install_requires=[
+        "jinja2<3.1.0"
         "cydets",
         "demandlib",
         "dhnx",
