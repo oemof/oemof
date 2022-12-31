@@ -62,10 +62,12 @@ It is not legally binding and is provided primarily for your convenience.
 ## § 6 Membership
 
 1. Natural persons of full age as well as legal entities can become members of the association.
-2. The declaration of membership is made to the board of directors.
+2. The written declaration of membership is made to the board of directors.
 3. The board decides on admission. The admission takes place after free discretion.
     In case of refusal, the board is not obliged to inform the applicant of the reasons for refusal.
 4. Membership ends by resignation from the association, by death, exclusion or deletion from the list of members.
+    Resignation takes place at the end of the year,
+    the declaration of resignation has to be filed to the board in written form and at least one month in advance.
 5. A member can be deleted from the list of members by decision of the executive board if he/she is in arrears with the payment of membership fees or contributions despite a written reminder.
     This deletion does not exempt the member from the payment of arrears in membership fees and contributions.
 6. A member can be excluded if he culpably violates the interests of the association in a gross manner. The exclusion takes place by resolution of the meeting of the members. Before the resolution is passed, the member must be given the opportunity to make an oral or written statement. The decision must be justified in writing and communicated to the member. An objection to this may be lodged with the executive board within one month of receipt of the resolution. The next general meeting shall make the final decision on this objection.
