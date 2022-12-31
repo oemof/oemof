@@ -16,7 +16,7 @@
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung.
     Dieser Zweck wird verwirklicht durch
-    1. Bereitstellung wissenschaftlicher Software,
+    1. die öffentliche und unentgeltliche Bereitstellung wissenschaftlicher Software,
          insbesondere von Software des "Open Energy Modelling Frameworks",
          unter von der "Open Source Initiative" anerkannten Open-Source-Lizenzen und
     2. Unterstützung bei der Weiterentwicklung, Wartung, Anwendung und Dokumentation ebendieser Software.

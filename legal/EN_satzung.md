@@ -19,7 +19,7 @@ It is not legally binding and is provided primarily for your convenience.
 1. The association pursues exclusively and directly non-profit purposes in the sense of the section "tax-privileged purposes" of the tax code.
 2. The purpose of the association is the promotion of science and research.
     This purpose is realized by
-    1. providing scientific software,
+    1. the public and free-of-charge provision of scientific software,
          especially software of the "Open Energy Modelling Framework",
          under open source licenses recognized by the "Open Source Initiative" and
     2. supporting the further development, maintenance, application and documentation of this software.
