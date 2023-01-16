@@ -16,7 +16,7 @@
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 2. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung.
     Dieser Zweck wird verwirklicht durch
-    1. Bereitstellung wissenschaftlicher Software,
+    1. die öffentliche und unentgeltliche Bereitstellung wissenschaftlicher Software,
          insbesondere von Software des "Open Energy Modelling Frameworks",
          unter von der "Open Source Initiative" anerkannten Open-Source-Lizenzen und
     2. Unterstützung bei der Weiterentwicklung, Wartung, Anwendung und Dokumentation ebendieser Software.
@@ -59,10 +59,11 @@
 ## § 6 Mitgliedschaft
 
 1. Mitglieder des Vereins können volljährige natürliche sowie juristische Personen werden.
-2. Die Beitrittserklärung erfolgt gegenüber dem Vorstand.
+2. Die Beitrittserklärung erfolgt in Textform gegenüber dem Vorstand.
 3. Über Aufnahme entscheidet der Vorstand. Die Aufnahme erfolgt nach freiem Ermessen.
     Bei Ablehnung ist er nicht verpflichtet, der/dem Antragsteller*in die Gründe hierfür mitzuteilen.
 4. Die Mitgliedschaft endet durch Austritt aus dem Verein, durch Tod, Ausschluss oder Streichung von der Mitgliederliste.
+    Eine Austrittserklärung hat mit einer Frist von mindestens vier Wochen in Textform gegenüber dem Vorstand zu erfolgen.
 5. Ein Mitglied kann durch Beschluss des Vorstandes von der Mitgliederliste gestrichen werden, wenn es trotz schriftlicher Mahnung mit der Bezahlung von Mitgliedsbeiträgen oder von Umlagen im Rückstand ist.
     Diese Streichung befreit das Mitglied nicht von der Begleichung rückständiger Beiträge und Umlagen.
 6. Ein Mitglied kann ausgeschlossen werden, wenn es schuldhaft in grober Weise die Interessen des Vereins verletzt. Der Ausschluss erfolgt durch Beschluss der Mitgliederversammlung. Vor der Beschlussfassung muss dem Mitglied Gelegenheit zur mündlichen oder schriftlichen Stellungnahme gegeben werden. Der Beschluss ist schriftlich zu begründen und dem Mitglied mitzuteilen. Hiergegen kann innerhalb eines Monats nach Zugang des Beschlusses beim Vorstand Widerspruch eingelegt werden. Über diesen Widerspruch entscheidet die nächste Mitgliederversammlung endgültig.

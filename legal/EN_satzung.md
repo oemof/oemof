@@ -19,7 +19,7 @@ It is not legally binding and is provided primarily for your convenience.
 1. The association pursues exclusively and directly non-profit purposes in the sense of the section "tax-privileged purposes" of the tax code.
 2. The purpose of the association is the promotion of science and research.
     This purpose is realized by
-    1. providing scientific software,
+    1. the public and free-of-charge provision of scientific software,
          especially software of the "Open Energy Modelling Framework",
          under open source licenses recognized by the "Open Source Initiative" and
     2. supporting the further development, maintenance, application and documentation of this software.
@@ -62,10 +62,11 @@ It is not legally binding and is provided primarily for your convenience.
 ## § 6 Membership
 
 1. Natural persons of full age as well as legal entities can become members of the association.
-2. The declaration of membership is made to the board of directors.
+2. The written declaration of membership is made to the board of directors.
 3. The board decides on admission. The admission takes place after free discretion.
     In case of refusal, the board is not obliged to inform the applicant of the reasons for refusal.
 4. Membership ends by resignation from the association, by death, exclusion or deletion from the list of members.
+    Resignation has to be declared to the board in written form at least four weeks in advance.
 5. A member can be deleted from the list of members by decision of the executive board if he/she is in arrears with the payment of membership fees or contributions despite a written reminder.
     This deletion does not exempt the member from the payment of arrears in membership fees and contributions.
 6. A member can be excluded if he culpably violates the interests of the association in a gross manner. The exclusion takes place by resolution of the meeting of the members. Before the resolution is passed, the member must be given the opportunity to make an oral or written statement. The decision must be justified in writing and communicated to the member. An objection to this may be lodged with the executive board within one month of receipt of the resolution. The next general meeting shall make the final decision on this objection.
