@@ -63,8 +63,7 @@
 3. Über Aufnahme entscheidet der Vorstand. Die Aufnahme erfolgt nach freiem Ermessen.
     Bei Ablehnung ist er nicht verpflichtet, der/dem Antragsteller*in die Gründe hierfür mitzuteilen.
 4. Die Mitgliedschaft endet durch Austritt aus dem Verein, durch Tod, Ausschluss oder Streichung von der Mitgliederliste.
-    Der Austritt erfolgt zum Jahresende,
-    die entsprechende Erklärung hat in Textform und mit einer Frist von einem Monat gegenüber dem Vorstand zu erfolgen.
+    Eine Austrittserklärung hat mit einer Frist von mindestens vier Wochen in Textform gegenüber dem Vorstand zu erfolgen.
 5. Ein Mitglied kann durch Beschluss des Vorstandes von der Mitgliederliste gestrichen werden, wenn es trotz schriftlicher Mahnung mit der Bezahlung von Mitgliedsbeiträgen oder von Umlagen im Rückstand ist.
     Diese Streichung befreit das Mitglied nicht von der Begleichung rückständiger Beiträge und Umlagen.
 6. Ein Mitglied kann ausgeschlossen werden, wenn es schuldhaft in grober Weise die Interessen des Vereins verletzt. Der Ausschluss erfolgt durch Beschluss der Mitgliederversammlung. Vor der Beschlussfassung muss dem Mitglied Gelegenheit zur mündlichen oder schriftlichen Stellungnahme gegeben werden. Der Beschluss ist schriftlich zu begründen und dem Mitglied mitzuteilen. Hiergegen kann innerhalb eines Monats nach Zugang des Beschlusses beim Vorstand Widerspruch eingelegt werden. Über diesen Widerspruch entscheidet die nächste Mitgliederversammlung endgültig.
