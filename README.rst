@@ -27,7 +27,8 @@ All projects are in different stages of implementation, some even may not have a
 We do not belong to a specific institution and everybody is free to join the developer teams and will have the same rights.
 There is no higher decision level.
 
-
+oemof community
+===============
 `This repository <https://github.com/oemof/oemof>`_ is also used to organise everything for the oemof community.
 
 - Webconference dates
@@ -37,12 +38,9 @@ There is no higher decision level.
 
 You can find recent topics of discussion in the `issues <https://github.com/oemof/oemof/issues>`_.
 
-**Overview**
-
-.. contents::
-    :depth: 3
-    :local:
-    :backlinks: top
+Real life meetings
+------------------
+The oemof community meets in person on a regular basis. Find the latest information on the next meeting(s) on this wiki page: https://github.com/oemof/oemof/wiki
 
 Projects with stable releases
 =============================
