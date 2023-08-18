@@ -103,18 +103,3 @@ Installation
 The oemof package is a meta package an will install all (!) oemof packages. This
 is usually not what you want to do. Use the list above to install the packages
 you need.
-
-
-Documentation
-=============
-
-
-The meta `documentation of oemof <https://oemof.readthedocs.io>`_ is hosted on ReadTheDocs.
-
-
-Development
-===========
-
-To run all tests run::
-
-    tox
