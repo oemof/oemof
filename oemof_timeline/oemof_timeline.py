@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
+"""
+This script plots key events of the oemof community in a timeline.
+Below the arrow are meetings of the community like dev/user meetings.
+Above are major releases of the different libraries of oemof. In order
+not to overload the picture, minor releases have been omitted.
+"""
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
@@ -16,7 +23,7 @@ names = events['description']
 dates = events['date']
 levels = events['level']
 
-fig, ax = plt.subplots(figsize=(12, 6))
+fig, ax = plt.subplots(figsize=(13, 6))
 
 # Create the base line
 start = min(dates)
