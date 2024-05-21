@@ -81,7 +81,6 @@ setup(
         "demandlib",
         "dhnx",
         "feedinlib",
-        "oemof.db",
         "oemof.network",
         "oemof.solph",
         "oemof.tools",
