@@ -320,10 +320,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.66211825"
-     inkscape:cx="376.82091"
-     inkscape:cy="161.60255"
+     inkscape:cx="370.77969"
+     inkscape:cy="163.11286"
      inkscape:document-units="px"
-     inkscape:current-layer="text2997-0"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
@@ -399,23 +399,36 @@
        transform="matrix(0.91666939,0.00891669,-0.008729,0.91623053,14.672869,82.666835)"
        id="g3831-9-3-1-6-3"
        style="display:inline;fill:none;stroke:#cfcfcf;stroke-width:1.46722;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       aria-label="['ø:mɔf]"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="text2997-0"
-       transform="translate(-318.6742,261.28263)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:157.532px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.820482"
-         x="381.84381"
-         y="910.32092"
-         id="text710"><tspan
-           sodipodi:role="line"
-           id="tspan708"
-           x="381.84381"
-           y="910.32092"
-           style="font-size:157.532px;stroke-width:0.820482">[ˌænɪˈvɜːsəri]</tspan></text>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:155.128px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.807961"
+       x="69.40316"
+       y="1230.9958"
+       id="text710"><tspan
+         sodipodi:role="line"
+         id="tspan708"
+         x="69.40316"
+         y="1230.9958"
+         style="font-size:155.128px;stroke-width:0.807961">[ˌænɪˈvɜːsəri]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.3607px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.863394"
+       x="78.097931"
+       y="1095.1282"
+       id="text3020-0"><tspan
+         sodipodi:role="line"
+         id="tspan3022-9"
+         x="78.097931"
+         y="1095.1282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.7108px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.863394"><tspan
+   style="font-weight:600;font-size:58.7108px;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.863394"
+   id="tspan3002">o</tspan>pen <tspan
+   style="font-weight:600;font-size:58.7108px;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.863394"
+   id="tspan3004">e</tspan>nergy <tspan
+   style="font-weight:600;font-size:58.7108px;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.863394"
+   id="tspan3006">mo</tspan>delling <tspan
+   style="font-weight:600;font-size:58.7108px;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:0.863394"
+   id="tspan3008">f</tspan>ramework</tspan></text>
     <g
        style="display:inline"
        id="g3465-3-7"
