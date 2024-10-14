@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="763.37231"
-   height="572.59558"
+   width="452.00174"
+   height="560.25757"
    id="svg2"
    version="1.1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -157,10 +157,10 @@
     </marker>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="-105.05586 : 6.7629711 : 1"
+       inkscape:vp_x="-105.05586 : -5.5750416 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1150 : 487.59558 : 1"
-       inkscape:persp3d-origin="575 : 420.92891 : 1"
+       inkscape:vp_z="1150 : 475.25757 : 1"
+       inkscape:persp3d-origin="575 : 408.5909 : 1"
        id="perspective4087" />
     <radialGradient
        r="97.496925"
@@ -325,15 +325,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.41845021"
-     inkscape:cx="566.37563"
-     inkscape:cy="753.97262"
+     inkscape:zoom="0.59177796"
+     inkscape:cx="561.02123"
+     inkscape:cy="257.698"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      showguides="true"
@@ -345,37 +345,37 @@
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        orientation="1,0"
-       position="-1351.023,1083.4605"
+       position="-1485.7324,1072.9565"
        id="guide3070"
        inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
-       position="-944.04072,787.32947"
+       position="-1078.7501,776.82549"
        id="guide3096"
        inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
-       position="-950.37507,519.70298"
+       position="-1085.0845,509.199"
        id="guide3098"
        inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
-       position="-1021.6366,1062.8739"
+       position="-1156.346,1052.3699"
        id="guide3121"
        inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
-       position="-537.05843,1081.877"
+       position="-671.76784,1071.373"
        id="guide3067"
        inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
-       position="-290.01861,747.73975"
+       position="-424.72802,737.23577"
        id="guide3069"
        inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
-       position="-812.60286,1237.0686"
+       position="-947.31227,1226.5646"
        id="guide3073"
        inkscape:locked="false" />
   </sodipodi:namedview>
@@ -394,85 +394,74 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1349.4394,-1280.7308)"
+     transform="translate(-1484.1488,-1270.2268)"
      style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:98.6369px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.513736"
+       x="1263.9141"
+       y="-1858.7206"
+       id="text710-3"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan708-37"
+         x="1263.9141"
+         y="-1858.7206"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.6369px;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.513736">[ˌænɪˈvɜːsəri]</tspan></text>
     <path
-       d="m 1605.5,1385.2541 h 4.5079 v 4.5079 H 1605.5 Z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z M 1605.5,1389.762 h 4.5079 v 4.5079 H 1605.5 Z m 27.0472,0 h 4.5079 v 4.5079 h -4.5079 z m 18.0315,0 h 4.5079 v 4.5079 h -4.5079 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 27.0472,0 h 4.5079 v 4.5079 h -4.5079 z m -108.1889,4.5079 h 4.5079 v 4.5079 H 1605.5 Z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m -108.1889,4.5079 h 4.5079 v 4.5078 H 1605.5 Z m 9.0157,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 18.0315,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5078 h -4.5078 z m 13.5236,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5078 h -4.5079 z m -108.1889,4.5078 h 4.5079 v 4.5079 H 1605.5 Z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 18.0314,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m -108.1889,4.5079 h 4.5079 v 4.5079 H 1605.5 Z m 27.0472,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 18.0315,0 h 4.5078 v 4.5079 h -4.5078 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 27.0472,0 h 4.5079 v 4.5079 h -4.5079 z m -108.1889,4.5079 h 4.5079 v 4.5079 H 1605.5 Z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m -72.1259,4.5079 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m 22.5394,0 h 4.5079 v 4.5078 h -4.5079 z m -63.1102,4.5078 h 4.5079 v 4.5079 H 1605.5 Z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 18.0315,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 13.5236,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m -99.1732,4.5079 h 4.5079 v 4.5079 H 1605.5 Z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 18.0315,0 h 4.5078 v 4.5079 h -4.5078 z m 13.5236,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 13.5237,0 h 4.5079 v 4.5079 h -4.5079 z m 18.0315,0 h 4.5078 v 4.5079 h -4.5078 z m -99.1732,4.5079 h 4.5078 v 4.5078 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m 31.5551,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m -108.1889,4.5078 h 4.5079 v 4.5079 H 1605.5 Z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 18.0315,0 h 4.5078 v 4.5079 h -4.5078 z m 18.0314,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 18.0314,0 h 4.5079 v 4.5079 h -4.5079 z m -81.1417,4.5079 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m -108.1889,4.5079 h 4.5079 v 4.5079 H 1605.5 Z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 22.5393,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 27.0472,0 h 4.5079 v 4.5079 h -4.5079 z m 13.5237,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m -103.6811,4.5079 h 4.5079 v 4.5078 H 1605.5 Z m 13.5236,0 h 4.5079 v 4.5078 h -4.5079 z m 13.5236,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5078 h -4.5078 z m 13.5236,0 h 4.5078 v 4.5078 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m -108.1889,4.5078 h 4.5079 v 4.5079 H 1605.5 Z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 31.5551,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 18.0314,0 h 4.5079 v 4.5079 h -4.5079 z m -108.1889,4.5079 h 4.5079 v 4.5079 H 1605.5 Z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 22.5393,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m -63.1102,4.5079 h 4.5078 v 4.5079 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 18.0316,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m -94.6653,4.5079 h 4.5079 v 4.5078 H 1605.5 Z m 4.5079,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m 13.5236,0 h 4.5079 v 4.5078 h -4.5079 z m 18.0315,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5078 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m -108.1889,4.5078 h 4.5079 v 4.5079 H 1605.5 Z m 27.0472,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 18.0316,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m -108.1889,4.5079 h 4.5079 v 4.5079 H 1605.5 Z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m -108.1889,4.5079 h 4.5079 v 4.5079 H 1605.5 Z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 22.5394,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m -108.1889,4.5079 h 4.5079 v 4.5078 H 1605.5 Z m 9.0157,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5078 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5078 h -4.5078 z m 40.5708,0 h 4.5079 v 4.5078 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5078 h -4.5079 z m 9.0157,0 h 4.5079 v 4.5078 h -4.5079 z m -108.1889,4.5078 h 4.5079 v 4.5079 H 1605.5 Z m 27.0472,0 h 4.5079 v 4.5079 h -4.5079 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m -108.1889,4.5079 h 4.5079 v 4.5079 H 1605.5 Z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5078 v 4.5079 h -4.5078 z m 13.5236,0 h 4.5079 v 4.5079 h -4.5079 z m 27.0472,0 h 4.5079 v 4.5079 h -4.5079 z m 9.0158,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5079 v 4.5079 h -4.5079 z m 4.5079,0 h 4.5078 v 4.5079 h -4.5078 z m 4.5078,0 h 4.5079 v 4.5079 h -4.5079 z"
-       id="qr-path"
+       d="m 1666.0577,1388.8567 h 2.7747 v 2.7746 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7746 h -2.7745 z m 2.7745,0 h 2.7746 v 2.7746 h -2.7746 z m 2.7746,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7746 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7746 h -2.7744 z m 8.3235,0 h 2.7745 v 2.7746 h -2.7745 z m 2.7745,0 h 2.7746 v 2.7746 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7746 h -2.7745 z m 5.5489,0 h 2.7745 v 2.7746 h -2.7745 z m 5.5491,0 h 2.7745 v 2.7746 h -2.7745 z m 8.3236,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7746 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7746 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7746 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7746 h -2.7745 z m -66.5881,2.7746 h 2.7747 v 2.7745 h -2.7747 z m 16.6471,0 h 2.7744 v 2.7745 h -2.7744 z m 11.098,0 h 2.7746 v 2.7745 h -2.7746 z m 8.3235,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7746 v 2.7745 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 16.6468,0 h 2.7745 v 2.7745 h -2.7745 z m -66.5881,2.7745 h 2.7747 v 2.7746 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7746 h -2.7745 z m 2.7745,0 h 2.7746 v 2.7746 h -2.7746 z m 2.7746,0 h 2.7744 v 2.7746 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7746 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7746 h -2.7744 z m 5.5489,0 h 2.7746 v 2.7746 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7746 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7746 h -2.7745 z m 8.3236,0 h 2.7744 v 2.7746 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7746 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7746 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7746 h -2.7745 z m 5.5489,0 h 2.7745 v 2.7746 h -2.7745 z m -66.5881,2.7746 h 2.7747 v 2.7744 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7746 v 2.7744 h -2.7746 z m 2.7746,0 h 2.7744 v 2.7744 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7744 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 11.098,0 h 2.7746 v 2.7744 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7744 h -2.7745 z m 8.3236,0 h 2.7744 v 2.7744 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7744 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7744 h -2.7745 z m 5.5489,0 h 2.7745 v 2.7744 h -2.7745 z m -66.5881,2.7744 h 2.7747 v 2.7745 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7746 v 2.7745 h -2.7746 z m 2.7746,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7745 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7745 h -2.7744 z m 11.098,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7745 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7745 h -2.7745 z m 5.5489,0 h 2.7745 v 2.7745 h -2.7745 z m -66.5881,2.7745 h 2.7747 v 2.7744 h -2.7747 z m 16.6471,0 h 2.7744 v 2.7744 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7744 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7744 h -2.7747 z m 11.0982,0 h 2.7745 v 2.7744 h -2.7745 z m 8.3236,0 h 2.7744 v 2.7744 h -2.7744 z m 16.6468,0 h 2.7745 v 2.7744 h -2.7745 z m -66.5881,2.7744 h 2.7747 v 2.7747 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7747 h -2.7745 z m 2.7745,0 h 2.7746 v 2.7747 h -2.7746 z m 2.7746,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7747 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7747 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7747 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7747 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7747 h -2.7744 z m 5.5489,0 h 2.7746 v 2.7747 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7747 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7747 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7747 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7747 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7747 h -2.7745 z m -44.3919,2.7747 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7744 h -2.7745 z m 13.8725,0 h 2.7746 v 2.7744 h -2.7746 z m -38.8431,2.7744 h 2.7747 v 2.7745 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7745 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 11.098,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 8.3235,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7745 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7745 h -2.7745 z m -61.0392,2.7745 h 2.7747 v 2.7746 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7746 h -2.7744 z m 11.0979,0 h 2.7745 v 2.7746 h -2.7745 z m 8.3236,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7746 h -2.7745 z m 5.5489,0 h 2.7747 v 2.7746 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7746 h -2.7745 z m 2.7745,0 h 2.7746 v 2.7746 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7746 h -2.7744 z m 8.3235,0 h 2.7745 v 2.7746 h -2.7745 z m 11.098,0 h 2.7744 v 2.7746 h -2.7744 z m -61.039,2.7746 h 2.7744 v 2.7745 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7745 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 19.4215,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7746 v 2.7745 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7745 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7745 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7745 h -2.7745 z m -66.5881,2.7745 h 2.7747 v 2.7744 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7744 h -2.7744 z m 11.0979,0 h 2.7745 v 2.7744 h -2.7745 z m 11.098,0 h 2.7745 v 2.7744 h -2.7745 z m 5.5489,0 h 2.7747 v 2.7744 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7744 h -2.7745 z m 8.3236,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7744 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 11.0979,0 h 2.7745 v 2.7744 h -2.7745 z m -49.941,2.7744 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7745 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5489,0 h 2.7746 v 2.7745 h -2.7746 z m 8.3235,0 h 2.7747 v 2.7745 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7745 h -2.7744 z m 5.549,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7745 h -2.7745 z m -66.5881,2.7745 h 2.7747 v 2.7746 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7746 h -2.7745 z m 5.5489,0 h 2.7746 v 2.7746 h -2.7746 z m 13.8726,0 h 2.7745 v 2.7746 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7746 h -2.7744 z m 16.6471,0 h 2.7744 v 2.7746 h -2.7744 z m 8.3235,0 h 2.7745 v 2.7746 h -2.7745 z m 5.5489,0 h 2.7746 v 2.7746 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7746 h -2.7744 z m -63.8137,2.7746 h 2.7747 v 2.7745 h -2.7747 z m 8.3236,0 h 2.7744 v 2.7745 h -2.7744 z m 8.3235,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7745 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7745 h -2.7745 z m 5.5489,0 h 2.7747 v 2.7745 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7745 h -2.7744 z m 8.3235,0 h 2.7745 v 2.7745 h -2.7745 z m 5.5489,0 h 2.7747 v 2.7745 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7745 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7745 h -2.7745 z m -66.5881,2.7745 h 2.7747 v 2.7744 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7744 h -2.7745 z m 19.4215,0 h 2.7745 v 2.7744 h -2.7745 z m 5.5489,0 h 2.7747 v 2.7744 h -2.7747 z m 8.3236,0 h 2.7746 v 2.7744 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7744 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 11.0979,0 h 2.7745 v 2.7744 h -2.7745 z m -66.5881,2.7744 h 2.7747 v 2.7747 h -2.7747 z m 8.3236,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7747 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7747 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7747 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7747 h -2.7747 z m 13.8727,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7747 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7747 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7747 h -2.7744 z m 5.549,0 h 2.7745 v 2.7747 h -2.7745 z m -38.843,2.7747 h 2.7744 v 2.7744 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7744 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7746 v 2.7744 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 11.098,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7744 h -2.7746 z m -58.2646,2.7744 h 2.7747 v 2.7745 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7745 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 8.3235,0 h 2.7745 v 2.7745 h -2.7745 z m 11.098,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7746 v 2.7745 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7745 h -2.7744 z m 5.549,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7745 h -2.7745 z m -66.5881,2.7745 h 2.7747 v 2.7746 h -2.7747 z m 16.6471,0 h 2.7744 v 2.7746 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7746 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7746 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7746 h -2.7745 z m 5.5491,0 h 2.7745 v 2.7746 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7746 h -2.7744 z m 11.098,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7746 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7746 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7746 h -2.7745 z m -66.5881,2.7746 h 2.7747 v 2.7744 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7744 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7744 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7744 h -2.7744 z m 5.5489,0 h 2.7746 v 2.7744 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7744 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 5.549,0 h 2.7745 v 2.7744 h -2.7745 z m 5.5489,0 h 2.7745 v 2.7744 h -2.7745 z m -66.5881,2.7744 h 2.7747 v 2.7745 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7745 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 13.8726,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7745 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7745 h -2.7744 z m 5.5489,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7745 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7745 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7745 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7745 h -2.7745 z m -66.5881,2.7745 h 2.7747 v 2.7744 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7744 h -2.7746 z m 5.5491,0 h 2.7744 v 2.7744 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7744 h -2.7745 z m 5.5489,0 h 2.7747 v 2.7744 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7744 h -2.7744 z m 24.9704,0 h 2.7746 v 2.7744 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7744 h -2.7745 z m 5.5489,0 h 2.7745 v 2.7744 h -2.7745 z m -66.5881,2.7744 h 2.7747 v 2.7747 h -2.7747 z m 16.6471,0 h 2.7744 v 2.7747 h -2.7744 z m 8.3235,0 h 2.7745 v 2.7747 h -2.7745 z m 5.5489,0 h 2.7747 v 2.7747 h -2.7747 z m 8.3236,0 h 2.7746 v 2.7747 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7747 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7747 v 2.7747 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7747 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7747 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7747 h -2.7746 z m 8.3235,0 h 2.7745 v 2.7747 h -2.7745 z m -66.5881,2.7747 h 2.7747 v 2.7744 h -2.7747 z m 2.7747,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7744 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 5.5491,0 h 2.7744 v 2.7744 h -2.7744 z m 8.3233,0 h 2.7747 v 2.7744 h -2.7747 z m 16.6471,0 h 2.7747 v 2.7744 h -2.7747 z m 5.5491,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7746 v 2.7744 h -2.7746 z m 2.7746,0 h 2.7745 v 2.7744 h -2.7745 z m 2.7745,0 h 2.7744 v 2.7744 h -2.7744 z m 2.7744,0 h 2.7745 v 2.7744 h -2.7745 z"
+       id="qr-path-4"
        fill="#000000"
        fill-opacity="1"
        fill-rule="nonzero"
        stroke="none"
-       style="stroke-width:4.50788" />
+       style="display:inline;stroke-width:2.77451" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1961.4874"
-       y="1839.5396"
-       id="text3057"><tspan
-         sodipodi:role="line"
-         id="tspan3059"
-         x="1961.4874"
-         y="1839.5396"
-         style="font-size:64px;line-height:1.25;font-family:sans-serif"> </tspan></text>
-    <g
-       transform="matrix(0.91666939,0.00891669,-0.008729,0.91623053,14.672869,82.666835)"
-       id="g3831-9-3-1-6-3"
-       style="display:inline;fill:none;stroke:#cfcfcf;stroke-width:1.46722;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1613.9167"
-       y="1824.7064"
-       id="text2997-0-4"><tspan
-         sodipodi:role="line"
-         id="tspan2999-1-2"
-         x="1613.9167"
-         y="1824.7064"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:10px;fill:#b3b3b3">['ø:mɔf]</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1622.7343"
-       y="1690.6216"
-       id="text2987-2"><tspan
-         sodipodi:role="line"
-         id="tspan2989-1"
-         x="1622.7343"
-         y="1690.6216"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:30px;writing-mode:lr-tb">oemof</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:74.6667px;line-height:100%;font-family:sans-serif;letter-spacing:10px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1841.5934"
-       y="1372.324"
+       style="font-style:normal;font-weight:normal;font-size:57.2973px;line-height:100%;font-family:sans-serif;letter-spacing:3.83186px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.767376"
+       x="1535.2238"
+       y="1542.2004"
        id="text2987-2-8"><tspan
          sodipodi:role="line"
-         id="tspan2989-1-8"
-         x="1841.5934"
-         y="1372.324"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:10px;writing-mode:lr-tb">years</tspan><tspan
+         x="1535.2238"
+         y="1542.2004"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.2973px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:3.83186px;writing-mode:lr-tb;stroke-width:0.767376"
+         id="tspan4" /><tspan
          sodipodi:role="line"
-         x="1841.5934"
-         y="1449.9949"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:10px;writing-mode:lr-tb"
-         id="tspan5">open</tspan><tspan
+         x="1535.2238"
+         y="1601.8031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.2973px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.767376"
+         id="tspan8"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';letter-spacing:0px;stroke-width:0.767376"
+   id="tspan12">o</tspan>pen</tspan><tspan
          sodipodi:role="line"
-         x="1841.5934"
-         y="1527.6658"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:10px;writing-mode:lr-tb"
-         id="tspan6">source</tspan><tspan
+         x="1535.2238"
+         y="1661.4056"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.2973px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.767376"
+         id="tspan9"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';letter-spacing:0px;stroke-width:0.767376"
+   id="tspan13">e</tspan>nergy</tspan><tspan
          sodipodi:role="line"
-         x="1841.5934"
-         y="1602.3324"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:10px;writing-mode:lr-tb"
-         id="tspan4" /></text>
+         x="1535.2238"
+         y="1721.0083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.2973px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.767376"
+         id="tspan10"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';letter-spacing:0px;stroke-width:0.767376"
+   id="tspan14">mo</tspan>delling</tspan><tspan
+         sodipodi:role="line"
+         x="1535.2238"
+         y="1780.611"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.2973px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.767376"
+         id="tspan11"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';letter-spacing:0px;stroke-width:0.767376"
+   id="tspan15">f</tspan>ramework</tspan></text>
     <g
-       id="g1"
-       transform="translate(1160.0782,867.78171)">
+       id="g2"
+       transform="matrix(0.69329109,0,0,0.69329109,1352.8663,1025.7133)"
+       style="display:inline">
       <path
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1f567d;stroke-width:62.358;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path3981-2-1-6-7-5-0-4-4-8-3-3"
+         id="path3981-2-1-6-7-5-0-4-4-8-3-3-7"
          transform="rotate(90.00083)"
          sodipodi:type="arc"
          sodipodi:cx="573.71082"
@@ -487,30 +476,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:423.131px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';opacity:0.99;fill:#1f567d;fill-opacity:1;stroke-width:2.39885;stroke-linejoin:round"
-       x="1320.6665"
-       y="1580.7307"
-       id="text1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:293.353px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';display:inline;opacity:0.99;fill:#1f567d;fill-opacity:1;stroke-width:1.6631;stroke-linejoin:round"
+       x="1464.2008"
+       y="1519.9945"
+       id="text1-6"><tspan
          sodipodi:role="line"
-         id="tspan1"
-         x="1320.6665"
-         y="1580.7307"
-         style="fill:#1f567d;fill-opacity:1;stroke-width:2.39885">1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="453.28867"
-       y="725.87689"
-       id="text2987-2-6"><tspan
-         sodipodi:role="line"
-         x="453.28867"
-         y="725.87689"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:30px;writing-mode:lr-tb"
-         id="tspan3" /></text>
-    <text
-       xml:space="preserve"
-       transform="translate(0,767.3622)"
-       id="text15"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:66%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';text-align:center;white-space:pre;shape-inside:url(#rect15);opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-linejoin:round;stroke-opacity:1" />
+         id="tspan1-3"
+         x="1464.2008"
+         y="1519.9945"
+         style="fill:#1f567d;fill-opacity:1;stroke-width:1.6631">1</tspan></text>
   </g>
 </svg>
