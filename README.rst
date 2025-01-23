@@ -15,7 +15,7 @@ There is no higher decision level.
 
 oemof community
 ===============
-`This repository <https://github.com/oemof/oemof>`_ is also used to organise everything for the oemof community.
+The repository `oemof/oemof <https://github.com/oemof/oemof>`_ does not contain any codeof the respective tools but is mainly used to organise everything for the oemof community.
 
 - Webconference dates
 - Real life meetings
